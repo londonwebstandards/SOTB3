@@ -1,0 +1,12 @@
+/* LWS Browser event IE fixes */
+ 
+ section#what, section#who, section#location dl.public-transport {width:46%;}
+ nav.main ul li{
+	float:left;
+	width:32%;
+ }
+ 
+ nav.main ul li a {
+	float:none;
+	width:auto;
+ }

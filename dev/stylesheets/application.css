@@ -1,0 +1,322 @@
+/***********
+ * General
+ ***********/
+
+@font-face {
+    font-family: 'LeagueGothicRegular';
+    src: url('League_Gothic-webfont.eot?') format('eot'),
+         url('League_Gothic-webfont.woff') format('woff'),
+         url('League_Gothic-webfont.ttf') format('truetype'),
+         url('League_Gothic-webfont.svg#webfontFHzvtkso') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+  font:62.5%/1.5 Palatino Linotype,Palatino,Times New Roman,serif; /* base of 10px every thing should be in ems from here out */
+  background:#ddd;
+  color:#333;
+}
+
+a:link
+{
+	color : #520000
+}
+
+a:hover, a:focus
+{
+	color : #A20000;
+}
+
+a:visited
+{
+	color : #220000;
+}
+
+footer a:visited
+{
+	color : #cccccc;
+}
+
+section h1{
+	font-size : 2em;	
+	font-family: LeagueGothicRegular;	
+}
+section p{
+  padding-bottom:0.5em;
+}
+
+/*** Site Header ***/
+header {
+  color:#fcf9ce;
+  background:#520000 url(../images/backgrounds/header-bottom.png) repeat-x 0 100%;
+}
+header h1{
+  width:980px;
+  margin:0 auto;
+  font-size:8em;
+  text-align: center;
+  -webkit-text-shadow : 1px 1px 2px rgba(255,255,255,0.5), -1px -1px 2px rgba(0,0,0,0.9);  
+  -moz-text-shadow : 1px 1px 2px rgba(255,255,255,0.5), -1px -1px 2px rgba(0,0,0,0.9);  
+  -o-text-shadow : 1px 1px 2px rgba(255,255,255,0.5), -1px -1px 2px rgba(0,0,0,0.9);  
+  -ms-text-shadow : 1px 1px 2px rgba(255,255,255,0.5), -1px -1px 2px rgba(0,0,0,0.9);  
+  text-shadow : 1px 1px 2px rgba(255,255,255,0.5), -1px -1px 2px rgba(0,0,0,0.9);  
+}
+
+header h2
+{
+	font-size : 2.5em;
+	margin-top: -20px;
+	padding-bottom: 30px;
+	text-align: center;
+	font-family: LeagueGothicRegular;
+	letter-spacing: 0.1em;
+}
+
+header h2 span
+{
+	background-color: rgba(0,0,0,0.3);
+	padding : 5px 15px;
+	-webkit-border-radius : 100px;
+	-moz-border-radius : 100px;
+	-o-border-radius : 100px;
+	-ms-border-radius : 100px;
+	border-radius : 100px;				
+	-webkit-box-shadow : 1px 1px 2px rgba(255,255,255,0.3), -1px -1px 2px rgba(0,0,0,0.3);
+	-moz-box-shadow : 1px 1px 2px rgba(255,255,255,0.3), -1px -1px 2px rgba(0,0,0,0.3);
+	-o-box-shadow : 1px 1px 2px rgba(255,255,255,0.3), -1px -1px 2px rgba(0,0,0,0.3);
+	-ms-box-shadow : 1px 1px 2px rgba(255,255,255,0.3), -1px -1px 2px rgba(0,0,0,0.3);
+	box-shadow : 1px 1px 2px rgba(255,255,255,0.3), -1px -1px 2px rgba(0,0,0,0.3);	
+}
+
+/*** Browser Logos ***/
+div.browser-logos {
+  background:#313131 url(../images/backgrounds/browsers-bottom.png) repeat-x 0 100%;
+}
+div.browser-logos ul.logos{
+  width:980px;
+  margin:0 auto;
+  padding-left: 2em;
+  overflow:hidden;
+  list-style:none;
+}
+
+/*** LWS Logo ***/
+a.lws {
+	clear: left;
+	display: block;
+}
+
+body.jsEnabled div.browser-logos ul.logos
+{
+	visibility : hidden;
+}
+
+div.browser-logos ul.logos li{
+  float:left;
+  width:25%;
+  padding:2em 0;
+}
+div.browser-logos ul.logos li a:active,
+div.browser-logos ul.logos li a:hover,
+div.browser-logos ul.logos li a:focus{
+  /* TODO: add some hover styles */
+}
+
+/*** Main Navigation ***/
+nav.main{
+  background:#520000 url(../images/backgrounds/nav-bottom.png) repeat-x 0 100%;
+  padding-bottom:12px;
+}
+nav.main ul{
+  width:980px;
+  margin:0 auto;
+  overflow:hidden;
+  list-style:none;
+}
+nav.main ul li a{
+  display:block;
+  float:left;
+  width:33%;
+  padding:0.8em 0;
+  text-align:center;
+  font-size:2em;
+  font-style:italic;
+}
+nav.main ul li a:link,
+nav.main ul li a:visited{
+  color:#fcf9ce;
+  text-decoration:none;
+}
+nav.main li {
+  display: inline;
+}
+
+nav.main ul li a:hover,
+nav.main ul li a:focus,
+nav.main ul li a:active{
+  /* TODO: add some hover styles */
+}
+
+/*** Page Content ***/
+div.content{
+  width:980px;
+  margin:0 auto;
+  text-align:left;
+}
+/*** Section > Who & Why ***/
+section#who,
+section#what{
+  width:50%;
+  float:left;
+  padding:1em 2em 1em 0;
+  font-size:1.6em;
+  -moz-box-sizing:border-box;
+  -ms-box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+  box-sizing:border-box;
+}
+
+/*** Section > Location ***/
+section#location,
+section#timetable,
+section#sponsors,
+section#community,
+section#speakers,
+section#register{
+  font-size:1.6em;
+  overflow:hidden;
+  clear:both;
+}
+
+section#sponsors li, section#community li {
+	display: inline-block;
+	margin-right: 3em;
+}
+
+section#sponsors ul, section#community ul {
+	margin-bottom: 3em;
+	text-align: center;
+}
+
+section#community {
+	background:#313131;
+	color:#ccc;
+	text-align: center;
+}
+
+
+section#location p#address{
+	margin-bottom: 1em;
+}
+
+section#location h2{
+  font-size : 1.8em;
+  font-family: LeagueGothicRegular;
+  
+ }
+section#location dl.public-transport{
+  width:50%;
+  padding-right:2em;
+  -moz-box-sizing:border-box;
+  -ms-box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+  box-sizing:border-box;
+}
+section#location dt{
+  margin-top:0.5em;
+  font-size:1.6em;
+  font-family: LeagueGothicRegular;
+}
+section#location dl dd dl dt{
+  font-size:1.4em;
+}
+section#location div#map{
+  width:50%;
+  float:right;
+  height:300px;
+  background:#999;
+  border:3px solid #fff;
+  -moz-box-sizing:border-box;
+  -ms-box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+  box-sizing:border-box;
+}
+
+/*** Sections beneath location ***/
+
+section#timetable,
+section#speakers,
+section#register
+{
+	margin-top: 20px;
+}
+
+section#speakers dt {
+	float: left;
+	clear: left;
+	width: 12ex;
+	font-weight: bold;
+}
+
+section#timetable dl
+{
+	margin-top: -1em;
+}
+
+section#timetable dt
+{
+	margin-top: 1em;
+	font-weight: bold;
+}
+
+p.disclaimer
+{
+	margin-top: 10px;
+	font-size: 0.75em;
+}
+
+p.disclaimer strong
+{
+	font-weight: bold;
+}
+
+/*** Supporters ***/
+section#supporters {
+  background:#313131 url(../images/backgrounds/content-bottom.png) repeat-x 0 0;
+  color:#ccc;
+  font-size:1.6em;
+  margin-top: 20px;
+  padding: 30px 0 0 0;
+  text-align: center;
+}
+
+section#community h2 {
+	font-family: LeagueGothicRegular;
+	font-size: 1.6em;
+}
+
+section#supporters h1 {
+	font-size: 1.6em;
+}
+
+section#supporters p, section#community ul, section#community h2
+{
+  width:980px;
+  margin:0 auto;
+}
+
+section#supporters a, footer a:link
+{
+	color : #EEE;
+}
+
+/*** Footer ***/
+footer {
+  padding:1em 0 2em 0;
+  font-size:1.2em;
+  text-align: center;
+  background:#313131;  
+  color : #ccc;
+}

@@ -1,0 +1,27 @@
+.logos img {filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0);}
+.logos a {width: 200px; height: 200px; display: block;}
+
+.logos a.firefox {
+	background: none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, 
+	src='/images/firefox.png',sizingMethod='crop');
+}
+
+.logos a.opera {
+	background: none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, 
+	src='/images/opera.png',sizingMethod='crop');
+}
+
+.logos a.ie {
+	background: none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, 
+	src='/images/ie9.png',sizingMethod='crop');
+}
+
+.logos a.chrome {
+	background: none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, 
+	src='/images/chrome.png',sizingMethod='crop');
+}
+

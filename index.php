@@ -287,7 +287,9 @@
 					var id = "#" + this.href.split("#")[1];
 					$.scrollTo($(id),500);
 				});
-				$('#register').colorbox().trigger('click');
+				$('#register')
+					.colorbox({inline: true, href: '#register'})
+					.trigger('click');
 			});
 		</script>
 		<script  type="text/javascript">

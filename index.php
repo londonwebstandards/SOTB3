@@ -9,6 +9,7 @@
 		<meta charset="utf-8"><!-- test -->
 		<title>State Of The Browser - London Web Standards</title>
 		<link rel="stylesheet" href="./stylesheets/application.css">
+		<link rel="stylesheet" href="/js/colorbox.css">
 		<!--[if lt IE 9]>
 			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
@@ -285,8 +286,9 @@
 					e.preventDefault();
 					var id = "#" + this.href.split("#")[1];
 					$.scrollTo($(id),500);
-				})
-			})
+				});
+				$('#register').colorbox().trigger('click');
+			});
 		</script>
 		<script  type="text/javascript">
 			try {
@@ -304,6 +306,7 @@
 			}
 		</script>
 		<script src="http://downloads.mailchimp.com/js/jquery.form-n-validate.js"></script>
+		<script src="/js/jquery.colorbox-min.js"></script>
 		<script>
 			var fnames = new Array();var ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';var err_style = '';
 			try{

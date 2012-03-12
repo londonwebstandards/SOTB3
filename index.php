@@ -9,7 +9,7 @@
 		<meta charset="utf-8"><!-- test -->
 		<title>State Of The Browser - London Web Standards</title>
 		<link rel="stylesheet" href="./stylesheets/application.css">
-		<link rel="stylesheet" href="/js/colorbox.css">
+		<link rel="stylesheet" href="/stylesheets/colorbox.css">
 		<!--[if lt IE 9]>
 			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->

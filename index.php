@@ -74,6 +74,8 @@
 			</section>
 			<div class="most-important">
 				<section id="register">
+					<h1>Next event, 28th April 2012</h1>
+					<p>2012 is an exciting time for the web. Representatives from Opera, Google, Mozilla and Microsoft will be on hand to show us how their browser technologies are being used to bring the web to tablets, smartphones, games consoles and television. Keynote talks, Q&As, breakout sessions and socialising will give you get a better understanding of the modern cross-platform web.</p>
 					<h1>Sign Up For More Information</h1>
 					<p>Join the mailing list for this event.</p>
 	  				<!-- Begin MailChimp Signup Form -->

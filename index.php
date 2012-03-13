@@ -289,7 +289,7 @@
 					var id = "#" + this.href.split("#")[1];
 					$.scrollTo($(id),500);
 				});
-				$('#register')
+				$('head')
 					.colorbox({inline: true, href: '#register'})
 					.trigger('click');
 			});

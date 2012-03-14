@@ -22,7 +22,7 @@
 				<span>State Of The Browser</span>
 			</h1>
 			<h2 class="date">
-				<span>Ravensbourne, 9 to 5pm Saturday, March 19th 2011</span>
+				<span>Ravensbourne, 9 to 5pm Saturday, 28th April 2012</span>
 			</h2>
 		</header>
 		<div class="browser-logos">
@@ -60,22 +60,13 @@
 				<li>
 					<a href="#location" class="scroll">Where</a>
 				</li>
-				<li>
-					<a href="./sponsors.php">Sponsors</a>
-				</li>
-				<li>
-                    <a href="./schedule.php">Schedule</a>
-                </li>
 			</ul>
 		</nav>
 		<div class="content">
-			<section id="tickets">
-				<p><a href="http://www.vimeo.com/tag:lwsbrowser">Watch videos from the day</a></p>
-			</section>
 			<div class="most-important">
 				<section id="register">
 					<h1>Next event, 28th April 2012</h1>
-					<p>2012 is an exciting time for the web. Representatives from Opera, Google, Mozilla and Microsoft will be on hand to show us how their browser technologies are being used to bring the web to tablets, smartphones, games consoles and television. Keynote talks, Q&As, breakout sessions and socialising will give you get a better understanding of the modern cross-platform web.</p>
+					<p>2012 is an exciting time for the web. Representatives from Opera, Google, Mozilla and Microsoft will be on hand to show us how their browser technologies are being used to bring the web to tablets, smartphones, games consoles and television. Keynote talks, Q&amp;As, breakout sessions and socialising will give you get a better understanding of the modern cross-platform web.</p>
 					<h1>Sign Up For More Information</h1>
 					<p>Join the mailing list for this event.</p>
 	  				<!-- Begin MailChimp Signup Form -->
@@ -122,41 +113,6 @@
 </section>
 
 			</div>
-			<section id="what">
-				<h1>What is State of the Browser?</h1>
-				<p>Representatives from <a href="http://www.opera.com/">Opera</a>, <a href="http://www.google.com/chrome/intl/en-GB/more/index.html">Google</a>, <a href="http://www.mozilla.com/en-US/firefox/">Mozilla</a> and <a href="http://www.beautyoftheweb.com/">Microsoft</a> will be on hand to walk attendees through each of their web browsers. You'll get the skinny on how they've implemented exciting new technologies and find out where the web is headed at breakneck speed. Through keynotes, Q&amp;As, breakout sessions and socialising, you'll get a better understanding than ever before of the browser in 2011.</p>
-				<p>Speakers include:</p>
-				<ul>
-					<li>Microsoft, Martin Beeby (<a href="http://twitter.com/thebeebs">@thebeebs</a>)</li>
-					<li>Opera, Chris Mills (<a href="http://twitter.com/chrisdavidmills">@chrisdavidmills</a>)</li>
-					<li>Google, Michael Mahemoff (<a href="http://twitter.com/mahemoff">@mahemoff</a>)</li>
-					<li>Mozilla, Paul Rouget (<a href="http://twitter.com/paulrouget">@paulrouget</a>)</li>
-				</ul>
-			</section>
-			<section id="sponsors">
-				<h1>Sponsors</h1>
-				<ul class="sponsors">
-					<li>
-						<a href="./sponsors.php#squiz"><img src="./images/squiz.png" height="50" width="181" alt="Squiz UK."/></a>
-					<li>
-						<a href="./sponsors.php#webdirections"><img src="./images/webdirections.png" height="67" width="250" alt="At media web directions."/></a>
-					<li>
-						<a href="./sponsors.php#campaignmonitor"><img src="./images/campaignmonitor.png" height="39" width="250" alt="Campaign Monitor."/></a>
-					<li>
-						<a href="./sponsors.php#pluslion"><img src="./images/plus_Lion.png" height="60" width="64" alt="Plus Lion."/></a>
-					</li>
-					<li>
-						<a href="./sponsors.php#top10"><img src="./images/top_10.png" height="60" width="149" alt="Top 10 dot co."/></a>
-					</li>
-					<li>
-						<a href="./sponsors.php#nineweb"><img src="./images/9web.png" height="70" width="136" alt="9 web"/></a>
-					</li>
-					<li>
-						<a href="./sponsors.php#ubelly"><img src="./images/ubelly.png" height="70" width="163" alt="ubelly"/></a>
-					</li>
-				</ul>
-				<? /* p>You're welcome to <a href="#supporters">talk to us about sponsorship</a>.</p */ ?>
-			</section>
 			<section id="who">
 				<h1>Who Is This Event For?</h1>
 				<div class="description">

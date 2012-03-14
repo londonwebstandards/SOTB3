@@ -119,11 +119,14 @@ section h1 {
 	font-family: LeagueGothicRegular;
 }
 
-#colorbox p, #colorbox label, .content p, .content li, .content label, .content dd, #supporters p, td	 {
+.response, #colorbox p, #colorbox label, .content p, .content li, .content label, .content dd, #supporters p, td	 {
 	font-size: 1.6em;
 	padding-bottom:0.5em;
 }
 
+.response {
+	clear:left;
+}
 .mc-field-group {
 	float: left;
 	

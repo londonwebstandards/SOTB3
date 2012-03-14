@@ -17,14 +17,7 @@
 	</head>
 	<body class="vevent">
 		<script type="text/javascript">document.getElementsByTagName('body')[0].className+=' jsEnabled'</script>
-		<header>
-			<h1 class="summary">
-				<span>State Of The Browser</span>
-			</h1>
-			<h2 class="date">
-				<span>Ravensbourne, 9 to 5pm Saturday, 28th April 2012</span>
-			</h2>
-		</header>
+		<?php include("inc/header.php"); ?>
 		<div class="browser-logos">
 			<ul class="logos">
 				<li>
@@ -192,15 +185,7 @@
 				<a href="mailto:organisers@londonwebstandards.org" title="Drop the organisers an email">contact us</a> today.</p>
 			</div>
 		</section>
-		<section id="community">
-			<div class="content">
-				<h2>Thanks to our Community Partners</h2>
-				<ul>
-					<li><a href="http://www.londonwebmeetup.org"><img src="./images/londonweb.png" height="85" width="99" alt="London Web."/></a></li>
-					<li><a href="http://www.phplondon.org"><img src="./images/phplondon.png" height="85" width="142" alt="PHP London."/></a></li>
-				</ul>
-			</div>
-		</section>
+		<?php include("inc/communityPartners.php"); ?>
 		<footer>
 			<div class="content">
 				<p>© Copyright <a href="http://www.londonwebstandards.org">London Web Standards</a> <?php if (date('Y') == "2011"){echo date('Y');} else{echo '2011 - '.date('Y');}?>, all rights reserved.</p>

@@ -1,0 +1,15 @@
+<div class="vcard">
+    <p class="fn n">
+        <perch:if exists="url"><a href="<perch:content id="url" type="url" label="Website" order="4" />" class="url"></perch:if>
+            <span class="given-name"><perch:content id="given-name" type="text" label="Given name" order="1" title="true" /></span>
+            <perch:if exists="additional-name">
+                <span class="additional-name"><perch:content id="additional-name" type="text" label="Addtional name" order="2" /></span>
+            </perch:if>
+            <span class="family-name"><perch:content id="family-name" type="text" label="Family name" order="3" title="true" /></span>
+        <perch:if exists="url"></a></perch:if>
+        
+        <perch:if exists="role">
+            - <span class="role"><perch:content type="select" id="role" label="Role" options="Developer, Manager, Publisher" allowempty="true" /></span>
+        </perch:if>
+    </p>
+</div>

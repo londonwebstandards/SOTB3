@@ -1,0 +1,154 @@
+#hd {
+	z-index: 10;
+	position: relative;
+	height: 1%;
+}
+
+#hd ul#nav li {
+	float: left;
+}
+
+#hd ul#nav li a:link,
+#hd ul#nav li a:visited {
+	background-color: transparent;
+	background-image: url(../img/bg-204-50.png);
+}
+
+#hd ul#metanav li {
+	float: left;
+}
+
+#content #main-panel table tbody tr td {
+	border-bottom: 1px solid #e5e5e5;
+}
+
+
+#hd ul#metanav li.hybrid {
+	background-color: #e5e5e5;
+	padding: 3px 3px 3px 14px;
+}
+
+#hd ul#metanav li a:link,
+#hd ul#metanav li a:visited {
+	background-color: #e5e5e5;
+	float: left;
+}
+
+#hd ul#metanav li a.logout {
+	background-color: #efefef;
+	border-left: 1px solid #fff;
+	padding: 0 18px;
+}
+
+#content #main-panel table,
+#content #main-panel table.d {
+	width: 99%;
+}
+
+#content #side-panel h3 span span {
+	display: inline-block;
+	padding: 0;
+	position: absolute;
+	right: 18px;
+	top: 5px;
+}
+
+
+body #hd ul#nav li.menucont ul.menu a.trigger {
+	width: 100px;
+	display: block;
+	margin-right: 0;
+	text-align: left;
+	position: relative;
+}
+
+#hd ul#nav ul li a:link,
+#hd ul#nav ul li a:visited {
+	width: 100px;
+	display: block;
+	position: relative;
+	height: 1%;
+	
+}
+
+body #hd ul#nav li ul.menu li {
+	background-color: lime;
+}
+
+body #hd ul#nav li ul.menu li a:hover,
+body #hd ul#nav li ul.menu li.selected a:hover {
+	color: #000;
+}
+
+p.alert-draft {
+	position: relative;
+	left: 0;
+	top: 0;
+	display: block;
+	height: 1%;
+}
+
+p.alert-draft a {
+	float: none;
+	display: block;
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}
+
+#content #main-panel table tr td.shared span {
+	background-image: url(../img/icon_page_shared.gif);
+}
+
+#content #main-panel table td.page span {
+	background-image: url(../img/icon_page.gif);
+}
+
+#content #main-panel table tr td.editor {
+	background-image: url(../img/icon_user.gif);
+}
+
+#content #main-panel table tr td.admin {
+	background-image: url(../img/icon_admin.gif);
+}
+
+#hd ul#nav li.selected {
+	background-image: url(../img/point.gif);
+}
+
+#content #h1 #help {
+	background-image: url(../img/help.gif);
+}
+
+#content #h1 #view-site {
+	background-image: url(../img/globe.gif);
+}
+
+#content #side-panel h3 {
+	background-image: url(../img/point-lt.gif);
+}
+
+#content #side-panel h3.em {
+	background-image: url(../img/point.gif);
+}
+
+#content #main-panel form div.file {
+	background-image: url(../img/icon_page.gif);
+}
+
+body #hd ul#nav li.menucont a.trigger span {
+	background-image: url(../img/icon_more_apps.gif);
+}
+
+#content #main-panel table.d tr td.shared span {
+	background-image: url(../img/icon_page_shared.gif);
+}
+
+#content #main-panel table.d td.draft span {
+	background-image: url(../img/icon_page_preview.gif);
+}
+
+#content #main-panel table.d tr td span.draft {
+	background-image: url(../img/icon_draft.gif);
+}
+

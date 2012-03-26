@@ -1,0 +1,70 @@
+@import 'base.less';
+@import 'skeleton.less';
+@import 'layout.less';
+
+nav {
+	z-index: 10;
+	display: block;
+	ul {
+		margin: 0;
+		
+		li {
+			float: left;
+		
+			a {
+				display: block;
+				padding: 1em;
+				font-size: 110%;
+				text-decoration: none;
+				
+				font-family:"Museo Sans 700", Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight:700; font-style:normal;
+				font-weight: normal;
+			
+			
+				-moz-transition:background-color 0.2s linear;
+				-o-transition:background-color 0.2s linear;
+				-webkit-transition:background-color 0.2s linear;
+				-ms-transition:background-color 0.2s linear;
+				transition:background-color 0.2s linear;
+			
+				&:hover, &:focus {
+					background: #555;
+					color: #eee;
+				}
+			}
+		}
+	}
+}
+
+.container {
+	claer: both;
+	z-index: 1;
+}
+
+#sponsors {
+	li a {
+		display: block;
+		background: white;
+		text-align: center;
+		border: 1px solid #dddddd;
+		
+		-moz-transition:background-color 0.2s linear;
+		-o-transition:background-color 0.2s linear;
+		-webkit-transition:background-color 0.2s linear;
+		-ms-transition:background-color 0.2s linear;
+		transition:background-color 0.2s linear;
+		
+		&:hover, &:focus {
+			background: #efefef;
+		}
+	}
+}
+
+#presenters {
+	li h3 {
+		&:before {
+			content: "~ ";
+			margin-left: -.9em;
+		}
+	}
+}

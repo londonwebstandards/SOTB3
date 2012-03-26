@@ -1,0 +1,90 @@
+SOFTWARE LICENCE AGREEMENT
+
+THIS LICENCE AGREEMENT (the "Agreement") is made BETWEEN 
+You, the purchaser and downloader of the software ("you, the Licensee") AND 
+Edgeofmyseat Ltd whose Registered Office is The Summit, 2 Castle Hill Terrace, Maidenhead, Berkshire, SL6 4JP a Company registered in England & Wales company number 04735127, ("we, our or us, the Licensor")
+
+DEFINITIONS
+"Software" means the actual software (including where applicable any media) and version of Perch, purchased by paying the licence fee and downloaded by you, or any part of that software, including the source code and any accompanying material together with any update we may supply. 
+
+"Software version" or "version" means the version of the software which is denoted with a number immediately after the software title, for example Perch 1.0
+
+"Software update" or "update" means any update to the software version and is denoted by a number after the version number. So, for example, the first update to Perch 1.0 would be Perch 1.1 Updates are minor enhancements or fixes to a version of the software you downloaded, such as a security patch. Update does not mean upgrade to the next or any other version of the software. So, for example, if you download software version 1.0, you may be entitled to updates for that version such as 1.1, 1.2 etc. You will not be entitled to another software version. How we assign the category of update or version is entirely within our absolute discretion.
+
+"Software upgrade" or "Upgrade" means a different version of the software which incorporates major enhancements and features of the software. Entitlement to upgrades does not form part of your rights under this agreement. 
+
+"Accompanying material" means any online help with the software available at the Perch website http://www.grabaperch.com
+
+"Intellectual Property Rights" means all vested, contingent and future intellectual property rights including but not limited to any patent, trademark, service mark, registered design, copyright, design right, right to extract or exploit information from a database, database rights, know-how, confidential information or process, any application for any of the above, and any other intellectual property right recognised in any part of the world whether or not presently existing or applied for. 
+
+"Nominated Website" means the domain name of one named website and one named development version of the same website, which you have configured online via the Account Centre at http://www.grabaperch.com.
+
+"Licence Fee" means the money paid by you at the time you completed the "Buy" section at http://grabaperch.com/buy and paid the amount due for the software usage
+
+"Compatibility Test Suite" means the testing facility available at http://www.grabaperch.com.
+
+"Support" means any support which we, in our absolute discretion, offer via the online ticketing system at http://www.grabaperch.com for a period of 12 months commencing on the date which you first download the software. The support available at our absolute discretion will include assistance with configuration and use of the software but will not include support for configuration of web servers, or any related systems. Support is not offered by email or telephone. 
+
+1	ABOUT THE AGREEMENT 
+We own the software which is protected by copyright laws. This agreement can only be amended, in writing, signed by both you and us. This agreement takes effect upon payment of the licence fee. 
+
+2	ABIDE BY TERMS 
+(a) By paying the licence fee you will be deemed to be aged 18 or over, to have read and understood this agreement and agree to be bound by it. If you are entering into an agreement on behalf of an organisation you confirm that you have the legal right to do so. 
+(b) You agree that you will download and use the software legally and only for the purposes that it is intended to be used for and that you will not misuse the software and that you will abide by this licence and any laws applicable to its use and this agreement or the operation of it. 
+
+3	RIGHTS GRANTED
+In consideration of the Licence Fee paid we grant you a non-exclusive, right to download, install and use the software. Unless you have our express written agreement otherwise, the terms of this agreement allow you to 
+(a) Use the software for a Nominated Website. Use of the software on additional websites or in other ways means you need to purchase additional licenses/software from us. 
+(b) Make copies of the software in its original form solely for the purposes of backup as in accordance with The Copyright, Designs and Patents Act 1988 as amended by the Copyright (Computer Programs) Regulations 1992 [SI No. 3233], particularly clause 50. The copyright must be reproduced and included on a label on any backup copy and this licence attached to it. 
+(c) The use is for the software as supplied and does not include any future releases, versions, modifications, amendments or upgrades. At our absolute discretion we may make updates available. 
+(d) The right to any defined support in relation to the software which we, at our discretion, choose to make available in respect of the software. 
+
+4	RESTRICTIONS 
+The software and its intellectual property rights are not sold but licensed to you there are restrictions to your use. Other than the rights specifically granted in this agreement, the restrictions include that you must not, without our prior express written consent:
+(a) share transfer or distribute the software or copies of the software or their documentation to others 
+(b) Copy, sell, assign, rent, lease, licence or sub-licence or transfer the software or grant any rights whatsoever to the software 
+(c) Transmit, publish, display, reproduce, edit, translate, modify, reverse engineer, decompile or disassemble, frame, create derivative works or otherwise alter the software 
+(d) use the software to provide any form of service, whether paid or not, to any person(s) or organisation(s). 
+(e) Delete, vary or obscure any copyright or other proprietary notices
+(f) Export, take, ship or transmit (directly or indirectly) any copies of the software or technical data in the software, or any direct product thereof, to any entity or country destination. 
+
+5	SOFTWARE LIABILITY 
+(a) Compatibility and whether the software meets your requirements is entirely your responsibility. Before purchase we advise you to take advantage of our free of charge Compatibility Test Suite. Upon proper completion of the Compatibility Test Suite a Compatibility Pass or a Fail will be issued 
+(b) Without limitation we do not provide any warranties, guarantees or representations of any kind whatsoever, either express or implied, and particularly we specifically do not warrant that software will meet your requirements. Any implied warranties including those of satisfactory quality, merchantability and fitness for a particular purpose or ability to achieve a particular result are excluded, so far as such exclusion or disclaimer is permitted under the applicable law. 
+(c) Software is provided on an "as is" and "as available" basis and we do not warrant that the operation of the Software will be uninterrupted or virus or error free in any way is compatible with equipment and software configurations. 
+(d) Any risk in download, installation, use or otherwise connected with the software is entirely at your own risk. We are not responsible for problems caused by computer hardware, computer operation systems or the use of the software whatsoever
+(e) The software is not accompanied with any after-sales advice or service. 
+(f) You specifically acknowledge and agree 
+(i) that the existence of any errors shall not constitute a breach of this agreement and that we shall not be responsible for any provision, download, installation or use of software nor any failure or any unavailability and any resulting losses or damage.
+(ii) that the we shall not be responsible for any failure or any unavailability and any losses or damage whatsoever resulting from any provision, download, installation or use of software nor any failure or any unavailability or any failure to provide
+(g) In the unlikely event that we would be held liable for any losses then such total damages for any loss whatsoever shall be limited, in relation to any one incident or series of related incidents, to 100% of the amount paid by you for the software use. 
+
+6	INTELLECTUAL PROPERTY RIGHTS 
+(1) All intellectual property rights of whatever nature in relation to the software shall remain ours, other than any third party rights which shall always remain vested within those third parties. 
+(2) You specifically agree to comply with both our Intellectual Property Rights and those of any third party in relation to the software particularly its download, use, installation and otherwise. 
+(3) You agree to immediately notify us if you become aware of any infringement of the Intellectual Property Rights in relation to the software including any unauthorised use, copying or distribution. 
+(4) You agree to indemnify us against all actions, claims, proceedings, damages, costs and expenses arising from your actual or alleged infringement of intellectual property rights and that you will notify us within 3 days of your knowledge of any such actual or alleged infringement. If we wish to, you further agree to allow us to conduct all negotiations and litigation and confirm that you will provide us with all reasonable assistance. 
+(5) To avoid any alleged or actual infringement we may, at our expense, modify or replace the software or will terminate this licence and refund to you the corresponding portion of the Licence Fee, as normally depreciated. 
+
+7 	COMPLIANCE 
+You agree to allow us to audit your use of the software to ensure compliance with this agreement. 
+
+8	TERM, BREACH AND CANCELLATION 
+(a) This licence agreement is effective until terminated by either of us for whatever reason(s). 
+(b) We have the right to terminate this Agreement immediately without Notice in accordance with clause 6(4) or if you breach or fail to comply with any term or part thereof, of this Agreement. Particularly, the software enforces a restriction for use on the nominated website only by contacting our server to verify the license. Attempts to circumvent this will immediately terminate the license.
+(c) You can terminate this Agreement by stopping using the software, removing it from the website and any hardware and either destroying any software including any form of copies or back-ups or returning it to us. 
+(d) The Agreement will also terminate if either of us
+(i) is a company which goes into liquidation, whether compulsory or voluntary (except for the purposes of any amalgamation or reconstruction) or have a receiver appointed over any of its assets or undertakings, or is unable to pay its debts within the meaning of the Companies Act or stops payment or ceases to carry on the whole or substantially the whole of its business OR
+(ii) is an individual who is declared bankrupt or becomes mentally incapacitated or dies. 
+(e) Upon any termination the software can no longer be used, must be removed from the website and any hardware and either the software media together with all copies or back-ups in any form must be destroyed or be returned us. 
+(f) If we do not act upon any breach immediately you should not assume that we have waived any rights as to enforceability or to seek redress, unless we have expressly stated that in writing. 
+
+9	NOTICES 
+(1) Any notices for must be in to us at the address which appears at the beginning of this agreement. Notices for you will be sent to the address you provided when creating your account at http://www.grabaperch.com.
+(2) Notices will be deemed to have been received on the 10th day after posting using Royal Mail Air Mail Service provided that a duly stamped proof of posting is obtained from Royal Mail. 
+
+10	INVALIDITY 
+Each clause or any part at all of this agreement is to be regarded as independent of the others. This means that should any clause or any part at all of this agreement be found to be unenforceable or invalid it will not affect the enforceability or validity of the rest of this agreement. 
+
+11	JURISDICTION
+These Terms & Conditions shall be interpreted, construed and enforced in accordance with English law and shall be subject to the exclusive jurisdiction of the English Courts

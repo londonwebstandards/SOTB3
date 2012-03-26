@@ -42,19 +42,9 @@
 				</li>
 			</ul>
 		</div>
-		<nav class="main">
-			<ul id="nav">
-				<li>
-					<a href="#who" class="scroll">Who</a>
-				</li>
-				<li>
-					<a href="#register" class="scroll">Register</a>
-				</li>        
-				<li>
-					<a href="#location" class="scroll">Where</a>
-				</li>
-			</ul>
-		</nav>
+		
+                <?php include("inc/navigation.php");?> 
+                
 		<div class="content">
 			<div class="most-important">
 				<section id="register">

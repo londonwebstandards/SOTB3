@@ -23,12 +23,12 @@
 	<div class="container">
 		<nav class="clearfix">
 			<ul>
-				<!-- li><a href="#introduction">About</a></li -->
-				<li><a href="#tickets">Tickets</a></li>
+				<!-- li><a href="/#introduction">About</a></li -->
+				<li><a href="/#tickets">Tickets</a></li>
 				<!-- li><a href="/presenters/">Presenters</a></li -->
 				<!-- li><a href="/sessions/">Sessions</a></li>
-				<li><a href="#schedule">Schedule</a></li>
-				<li><a href="#directions">Where</a></li>
+				<li><a href="/schedule/">Schedule</a></li>
+				<li><a href="/directions/">Where</a></li>
 				<li><a href="/sponsors/">Sponsors</a></li -->
 				<!-- li><a href="/live/">Live Feed</a></li -->
 			</ul>

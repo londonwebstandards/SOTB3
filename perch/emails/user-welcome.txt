@@ -1,0 +1,18 @@
+Dear $givenname,
+
+An account has been set up for you to use the content management system.
+Here are the details:
+
+Your username:
+$username
+
+Your password:
+$password
+
+You can log in here:
+$url
+
+All the best,
+
+$sendername
+

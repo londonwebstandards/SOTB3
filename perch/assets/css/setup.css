@@ -1,0 +1,131 @@
+body {
+	color: #333;
+	background-color: #aaa;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	line-height: 1.6;
+	text-align: center;
+}
+
+strong {
+	font-weight: bold;
+}
+
+em {
+	font-style: italic;
+}
+
+#wrapper {
+	text-align: left;
+	margin: 30px auto;
+	width: 720px;
+	color: #333;
+	background-color: #fff;
+	padding: 40px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#hd {
+	padding: 0 0 20px 0;
+	margin-bottom: 10px;
+	border-bottom: 1px solid #ccc;
+}
+
+#content h1 {
+	font-size: 160%;
+	color: #000;
+}
+
+
+#content h2 {
+	font-size: 130%;
+	color: #000;
+	margin-top: 1em;
+}
+
+#content p {
+	margin-bottom: 1em;
+}
+
+#content ol {
+	list-style: decimal inside;
+	padding: 20px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background-color: #efefef;
+	margin: 10px 0;
+}
+
+#content .code {
+	margin: 10px 0;
+}
+
+#content .code textarea {
+	width: 100%;
+	color: #333;
+	padding-left: 10px;
+}
+
+#content .message {
+	padding: 20px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background-color: #efefef;
+	margin: 10px 0;
+}
+
+#content fieldset {
+	border: 1px solid #ccc;
+	padding: 20px;
+	margin-bottom: 20px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#content fieldset legend {
+	padding: 0 5px;
+	margin-left: 10px;
+	font-weight: bold;
+}
+
+#content label {
+	display: block;
+	width: 10em;
+	float: left;
+	text-align: right;
+	padding-right: 10px;
+	color: #000;
+}
+
+#content form {
+	margin: 20px 0;
+}
+
+#content form div {
+	clear: left;
+	margin-bottom: 10px;
+}
+
+#content form input.text {
+	width: 16em;
+}
+
+#content form input.wide {
+	width: 24em;
+}
+
+#content form .error {
+	color: #900;
+	font-weight: bold;
+}
+
+#content form .hint {
+	font-size: 90%;
+	color: #787878;
+	margin-left: 20px;
+}

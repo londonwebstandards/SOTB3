@@ -1,0 +1,5 @@
+<?php
+
+    $users   = $Users->all();
+
+?>

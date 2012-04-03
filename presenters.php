@@ -1,18 +1,11 @@
 <?php include("inc/pageopen.php"); ?>
 <?php include("inc/navigation.php"); ?>
     <div id="brand" class="sixteen columns">
-        <h1>State of the Browser 2012</h1>
+        <h1>Presenters</h1>
     </div>
     
-    <div class="eleven columns">
-        <div id="introduction" >
-            <p>2012 is an exciting time for the web. Representatives from Opera, Google, Mozilla and Microsoft 
-                will be on hand to show us how their browser technologies are being used to bring the web to tablets, smartphones, 
-                games consoles and television. Keynote talks, Q&amp;A's, breakout 
-                sessions and socialising will give you get a better understanding of the modern cross-platform web.</p>
-        </div>
-        <div id="presenters">
-            <h2>Presenters include…</h2>
+    <div class="eleven columns">        
+        <div id="presenters">            
             <ul>
                 <li>
                     <h3>Michael Mahemoff (<a href="http://twitter.com/mahemoff/">@mahemoff</a>)</h3>

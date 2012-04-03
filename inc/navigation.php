@@ -1,16 +1,8 @@
-<nav class="main">
-    <ul id="nav">
-        <li>
-            <a href="./index.php#who">Who</a>
-        </li>
-        <li>
-            <a href="./index.php#register">Register</a>
-        </li>        
-        <li>
-            <a href="./index.php#location">Where</a>
-        </li>
-        <li>
-            <a href="./sponsors.php">Sponsors</a>
-        </li>    
+<nav class="clearfix">
+    <ul>                
+        <li><a href="presenters.php">Presenters</a></li>        
+        <li><a href="schedule.php">Schedule</a></li>        
+        <li><a href="sponsors.php">Tickets</a></li>
+        <li><a href="location.php">Location</a></li>        
     </ul>
 </nav>

@@ -16,8 +16,16 @@
     <div class="eight columns">
         <ul>
             <li><a href="#"><img src="img/twilio.png" alt="Twilio, Cloud Communications" height="66" width="160"></a></li>
-            <li><a href="#"><img src="img/e-noise.png" alt="E-Noise" height="82" width="160"></a></li>
-            <li><a href="#"><img src="img/creative-js.png" alt="E-Noise" height="56" width="160"></a></li>           
+        <li>
+            <a href="#">
+                <img src="img/e-noise.png" alt="E-Noise" height="82" width="160">
+                <p>E-NOISE is a small company based in East London (UK) specialising in hosting & 
+                    building WordPress and Joomla! Websites. We pride ourselves in providing 
+                    friendly human support and making hosting your website simple. We also 
+                    develop custom web applications, plugins and themes.</p>
+            </a>
+        </li>
+        <li><a href="#"><img src="img/creative-js.png" alt="E-Noise" height="56" width="160"></a></li>           
         </ul>
     </div>
 

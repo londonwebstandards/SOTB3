@@ -15,17 +15,38 @@
 
     <div class="eight columns">
         <ul>
-            <li><a href="#"><img src="img/twilio.png" alt="Twilio, Cloud Communications" height="66" width="160"></a></li>
-        <li>
-            <a href="#">
-                <img src="img/e-noise.png" alt="E-Noise" height="82" width="160">
-                <p>E-NOISE is a small company based in East London (UK) specialising in hosting & 
-                    building WordPress and Joomla! Websites. We pride ourselves in providing 
-                    friendly human support and making hosting your website simple. We also 
-                    develop custom web applications, plugins and themes.</p>
-            </a>
-        </li>
-        <li><a href="#"><img src="img/creative-js.png" alt="E-Noise" height="56" width="160"></a></li>           
+            <li>
+                <a href="#">
+                    <img src="" />
+                    <p>We experiment with exciting new web technologies and bring 
+                    the world’s finest journalism to new platforms, technologies and channels.
+                    We’re looking for more engineers to join our team, so if you 
+                    think you’re up to the challenge, drop us a line. We are currently looking for:
+                    JavaScript and PHP developers
+                    Web operations engineers</p>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <img src="img/twilio.png" alt="Twilio, Cloud Communications" height="66" width="160">
+                    <p></p>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <img src="img/e-noise.png" alt="E-Noise" height="82" width="160">
+                    <p>E-NOISE is a small company based in East London (UK) specialising in hosting & 
+                        building WordPress and Joomla! Websites. We pride ourselves in providing 
+                        friendly human support and making hosting your website simple. We also 
+                        develop custom web applications, plugins and themes.</p>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <img src="img/creative-js.png" alt="Creative JS" height="56" width="160">
+                    <p></p>
+                </a>
+            </li>           
         </ul>
     </div>
 

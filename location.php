@@ -1,4 +1,7 @@
-<div id="location">
+<?php include("inc/pageopen.php"); ?>
+<?php include("inc/navigation.php"); ?>
+
+<div id="location" class="eleven columns">
     <h2>Venue - Ravensbourne</h2>
         <p id="address">6 Penrose Way, London, SE10 0EW</p>
         <div id="transport">
@@ -55,3 +58,7 @@
         </div>
     </section>
 </div>
+
+<?php include("inc/sponsorsSide.php"); ?>    
+<?php include("inc/communityPartners.php"); ?>
+<?php include("inc/footer.php"); ?>

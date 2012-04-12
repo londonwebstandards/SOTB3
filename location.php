@@ -12,7 +12,7 @@
                 </dt>
                 <dd>
                     <strong>North Greenwich station on the Jubilee Line</strong>.
-                    Please note that although there are no scheduled closures on the Jubilee Line on March 19th, this could change at short notice. Please check
+                    Please note that although there are no scheduled closures on the Jubilee Line on 28th April, this could change at short notice. Please check
                     <a href="http://www.tfl.gov.uk/tfl/livetravelnews/realtime/tube/default.html" title="The TFL travel news">TfL's live travel news</a> before you travel.
                 </dd>
                 <dt>Overground Train</dt>

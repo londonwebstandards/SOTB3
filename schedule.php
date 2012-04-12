@@ -29,8 +29,10 @@
         <li><h2><span class="time">13:25</span>	Break</h2></li>
         <li><h2><span class="time">13:40</span> Breakout session 1</h2> </li>
         <li><h2><span class="time">14:50</span> Breakout session 2</h2></li>
-        <li>Anything marked with * will be repeated across both breakout sessions.	
-        <ul><li>Room 205, 13:40 - Martin Beeby "HTML5 Human Interaction (Kinect, Touch, Ink, Speech etc
+<?
+/*
+		<li>Anything marked with * will be repeated across both breakout sessions.	
+        <p><ul><li>Room 205, 13:40 - Martin Beeby "HTML5 Human Interaction (Kinect, Touch, Ink, Speech etc
         Laurian Gridinoc (gridinoc), Jetpack Ambassador
         A walk-through an easy way of creating Firefox Add-ons only with HTML, CSS and JavaScript.</li>
         <li>Room 205, 14:50 - BlackBerry WebWorks Bootcamp
@@ -45,6 +47,8 @@
         Malte Ubl (@cramforce), Google</li>
         <li>Room 213 - New CSS3 features plus Opera DragonFly *
         Chris Mills, Opera</li></ul></li>
+*/
+?>
         <li><h2><span class="time">15:50</span>	Break</h2></li>
         <li><h2><span class="time">16:10</span>	Panel Q&A Discussion Chaired by Jim O'Donnell (@pekingspring)</h2></li>
         <li><h2><span class="time">17:00</span>	Drinks at the Pilot Inn</h2></li>

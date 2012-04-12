@@ -10,22 +10,22 @@
 		<li><h2><span class="time">9:00</span>	Registration</h2></li>
         <li><h2><span class="time">9:45</span>	Introduction from Michael Mahemoff</h2></li>
         <li><h2><span class="time">10:15</span>	No app is an island</h2>
-        Description: The web is like a continent with roads linking everywhere to everywhere.  Apps are like isolated islands in an uncharted sea.  Learn how Web Intents builds bridges between these apps and to the rest of the web.  "
+        <p>Description: The web is like a continent with roads linking everywhere to everywhere.  Apps are like isolated islands in an uncharted sea.  Learn how Web Intents builds bridges between these apps and to the rest of the web.  "</p>
 
-        Paul Kinlan, Google</li>
+        <p>Paul Kinlan, Google</p></li>
         <li><h2><span class="time">10:55</span>	Break</li></h2>
         <li><h2><span class="time">11:10</span>	The Web As It Should Be</h2>
-        Martin Beeby(@thebeebs), Internet Explorer
+        <p>Martin Beeby(@thebeebs), Internet Explorer</p>
 
-        With the advent of CSS3 and the ever-greater maturity of HTML5, it’s an exciting time for the Web. The possibilities for creating truly engaging – even addictive – Web and business applications appear limitless. And, with the release of Internet Explorer 9, Microsoft finally came in from the cold after many years in the world wide wilderness.
+        <p>With the advent of CSS3 and the ever-greater maturity of HTML5, it’s an exciting time for the Web. The possibilities for creating truly engaging – even addictive – Web and business applications appear limitless. And, with the release of Internet Explorer 9, Microsoft finally came in from the cold after many years in the world wide wilderness.</p>
 
-        As Internet Explorer moves towards full support of standards-based HTML5 and CSS3, this is a great opportunity to hear from Martin Beeby about how these key technologies will be used to build and deliver the applications of tomorrow, engage end-users like never before, and generate even greater loyalty to Web-sites."</li>
+        <p>As Internet Explorer moves towards full support of standards-based HTML5 and CSS3, this is a great opportunity to hear from Martin Beeby about how these key technologies will be used to build and deliver the applications of tomorrow, engage end-users like never before, and generate even greater loyalty to Web-sites."</p></li>
         <li><h2><span class="time">11:50</span>	Chris Heillman, Mozilla</h2></li>
         <li><h2><span class="time">12:30</span>	Lunch (a varied complementary lunch will be provided)</h2></li>
         <li><h2><span class="time">13:30</span>	HTML5: A matter of good form</h2>
-        Patrick Lauke (@patrick_h_lauke), Opera
+        <p>Patrick Lauke (@patrick_h_lauke), Opera</p>
 
-        TBC</li>
+        <p>TBC</p></li>
         <li><h2><span class="time">13:25</span>	Break</h2></li>
         <li><h2><span class="time">13:40</span> Breakout session 1</h2> </li>
         <li><h2><span class="time">14:50</span> Breakout session 2</h2></li>

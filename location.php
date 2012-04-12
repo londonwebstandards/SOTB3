@@ -53,11 +53,38 @@
             <p>Ravensbourne is a stunning new building on the Greenwich Peninsula, located next door to The O2. 
             For more details on the space and how to get there, go to <a href="http://www.rave.ac.uk/">www.rave.ac.uk</a>.</p>
             <div id="map">
-                <img src="images/map-default.png" alt="Map of venue">
+                <img src="/images/map-default.png" alt="Map showing Ravensbourne, next to North Greenwich tube station and the O2.">
             </div>
         </div>
     </section>
 </div>
+<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+		<script>
+			function init() {
+				var latlng = new google.maps.LatLng(51.501369999999994,0.0046129999999999999),
+				opts = {
+					zoom: 13,
+					center: latlng,
+					mapTypeId: google.maps.MapTypeId.ROADMAP
+				},
+				map = new google.maps.Map(document.getElementById("map"), opts);
+				infowindow = new google.maps.InfoWindow({
+					content: "Ravensbourne College of Design and Communication"
+				})
+				marker = new google.maps.Marker({
+					position: latlng, 
+					map: map
+				});
+				google.maps.event.addListener(marker, 'click', function(){
+					infowindow.open(map,marker);
+				});
+			}
+			var addEvent = function( obj, type, fn ) {
+				if (obj.addEventListener) obj.addEventListener(type, fn, false);
+				else if (obj.attachEvent) obj.attachEvent('on' + type, function() { return fn.apply(obj, new Array(window.event));});
+			}
+			addEvent(window, 'load', init);
+		</script>
 
 <?php include("inc/sponsorsSide.php"); ?>    
 <?php include("inc/communityPartners.php"); ?>

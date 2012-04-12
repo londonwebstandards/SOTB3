@@ -6,29 +6,29 @@
     
     <div class="eleven columns">
         
-        <ul>
-		<li>9:00	Registration</li>
-        <li>9:45	Introduction from Michael Mahemoff</li>
-        <li>10:15	No app is an island
+        <ul id="schedule">
+		<li><h2><span class="time">9:00</span>	Registration</h2></li>
+        <li><h2><span class="time">9:45</span>	Introduction from Michael Mahemoff</h2></li>
+        <li><h2><span class="time">10:15</span>	No app is an island</h2>
         Description: The web is like a continent with roads linking everywhere to everywhere.  Apps are like isolated islands in an uncharted sea.  Learn how Web Intents builds bridges between these apps and to the rest of the web.  "
 
         Paul Kinlan, Google</li>
-        <li>10:55	Break</li>
-        <li>11:10	The Web As It Should Be
+        <li><h2><span class="time">10:55</span>	Break</li></h2>
+        <li><h2><span class="time">11:10</span>	The Web As It Should Be</h2>
         Martin Beeby(@thebeebs), Internet Explorer
 
         With the advent of CSS3 and the ever-greater maturity of HTML5, it’s an exciting time for the Web. The possibilities for creating truly engaging – even addictive – Web and business applications appear limitless. And, with the release of Internet Explorer 9, Microsoft finally came in from the cold after many years in the world wide wilderness.
 
         As Internet Explorer moves towards full support of standards-based HTML5 and CSS3, this is a great opportunity to hear from Martin Beeby about how these key technologies will be used to build and deliver the applications of tomorrow, engage end-users like never before, and generate even greater loyalty to Web-sites."</li>
-        <li>11:50	Chris Heillman, Mozilla</li>
-        <li>12:30	Lunch (a varied complementary lunch will be provided)</li>
-        <li>13:30	HTML5: A matter of good form
+        <li><h2><span class="time">11:50</span>	Chris Heillman, Mozilla</h2></li>
+        <li><h2><span class="time">12:30</span>	Lunch (a varied complementary lunch will be provided)</h2></li>
+        <li><h2><span class="time">13:30</span>	HTML5: A matter of good form</h2>
         Patrick Lauke (@patrick_h_lauke), Opera
 
         TBC</li>
-        <li>13:25	Break</li>
-        <li>13:40 Breakout session 1 </li>
-        <li>14:50 Breakout session 2</li>
+        <li><h2><span class="time">13:25</span>	Break</h2></li>
+        <li><h2><span class="time">13:40</span> Breakout session 1</h2> </li>
+        <li><h2><span class="time">14:50</span> Breakout session 2</h2></li>
         <li>Anything marked with * will be repeated across both breakout sessions.	
         <ul><li>Room 205, 13:40 - Martin Beeby "HTML5 Human Interaction (Kinect, Touch, Ink, Speech etc
         Laurian Gridinoc (gridinoc), Jetpack Ambassador
@@ -45,9 +45,9 @@
         Malte Ubl (@cramforce), Google</li>
         <li>Room 213 - New CSS3 features plus Opera DragonFly *
         Chris Mills, Opera</li></ul></li>
-        <li>15:50	Break</li>
-        <li>16:10	Panel Q&A Discussion Chaired by Jim O'Donnell (@pekingspring)</li>
-        <li>17:00	Drinks at the Pilot Inn</li>
+        <li><h2><span class="time">15:50</span>	Break</h2></li>
+        <li><h2><span class="time">16:10</span>	Panel Q&A Discussion Chaired by Jim O'Donnell (@pekingspring)</h2></li>
+        <li><h2><span class="time">17:00</span>	Drinks at the Pilot Inn</h2></li>
 		</ul>
 
         

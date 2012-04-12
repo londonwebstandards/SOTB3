@@ -3,7 +3,7 @@
     <div id="brand" class="sixteen columns">
         <h1>Sponsors</h1>
     </div>
-    <div id="sponsors">
+    
     <div class="eight columns">
         <ul>
             <li><a href="http://squiz.co.uk"><img src="img/squiz.png" alt="Squiz" height="60" width="160"></a></li>
@@ -20,6 +20,6 @@
 	        <li><a href="http://creativejs.com"><img src="img/creative-js.png" alt="E-Noise" height="56" width="160"></a></li>           
         </ul>
     </div>
-</div>
+
     <?php include("inc/communityPartners.php"); ?>
 <?php include("inc/footer.php"); ?>

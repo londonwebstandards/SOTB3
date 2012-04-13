@@ -30,9 +30,6 @@
                     <h3>Peter Gasston (<a href="http://twitter.com/stopsatgreen/">@stopsatgreen</a>)</h3>
                 </li>
                 <li>
-                    <h3>Patrick Lauke (<a href="https://twitter.com/patrick_h_lauke">@patrick_h_lauke</a>)</h3>
-                </li>
-                <li>
                     <h3>Paul Kinlan (<a href="http://twitter.com/paul_kinlan/">@paul_kinlan</a>)</h3>
                 </li>
                 <li>

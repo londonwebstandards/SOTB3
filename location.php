@@ -8,21 +8,21 @@
             <h3>Getting There</h3>
             <dl class="public-transport">
                 <dt>
-                    Tube
+                    <h3>Tube</h3>
                 </dt>
                 <dd>
                     <strong>North Greenwich station on the Jubilee Line</strong>.
                     Please note that although there are no scheduled closures on the Jubilee Line on 28th April, this could change at short notice. Please check
                     <a href="http://www.tfl.gov.uk/tfl/livetravelnews/realtime/tube/default.html" title="The TFL travel news">TfL's live travel news</a> before you travel.
                 </dd>
-                <dt>Overground Train</dt>
+                <dt><h3>Overground Train</h3></dt>
                 <dd>
                     Take <a href="http://www.southeasterrailwai.co.uk" title="South Eastern's Website">South Eastern</a> rail to Charlton
                     station. Get the 486 bus from outside, in the direction of North
                     Greenwich (your destination). Trains run regularly from Canon
                     Street and London Bridge.
                 </dd>
-                <dt>Bus</dt>
+                <dt><h3>Bus</h3></dt>
                 <dd>
                     These take slightly longer but are an option. The following buses 
                     <a href="http://www.tfl.gov.uk/tfl/gettingaround/maps/buses/pdf/northgreenwich-2191.pdf"
@@ -40,12 +40,12 @@
                         <dd>472 - from Thamesmead (stops near Charlton station)</dd>
                     </dl>
                 </dd>
-                <dt>Docklands Light Railway (DLR)</dt>
+                <dt><h3>Docklands Light Railway (DLR)</h3></dt>
                 <dd>
                     If you're travelling from inner London, you can catch the <abbr title="Docklands Light Railway">DLR</abbr>
                     from Bank to Cutty Sark (a.k.a Greenwich, it's on the Lewisham line). From there you can catch the 129 bus to North Greenwich.
                 </dd>
-                <dt>Arriving by car?</dt>
+                <dt><h3>Arriving by car?</h3></dt>
                 <dd>Please be aware there is no on-site parking at the venue.</dd>
             </dl>
         </div>

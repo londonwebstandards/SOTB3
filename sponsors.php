@@ -15,7 +15,8 @@
 				other innovative new ways of bringing FT content and services to
 				readers wherever they are</p>
 			</li>
-            <li><a class="logo" href="http://squiz.co.uk"><img src="img/squiz.png" alt="Squiz" height="60" width="160"></a></li>
+            <li><a class="logo" href="http://squiz.co.uk"><img src="img/squiz.png" alt="Squiz" height="60" width="160"></a>
+	<p>Squiz is a Supported Open Source Web Services company and our clients are our number one priority. Our team's focus is to create successful web solutions which enable our clients to excel online and meet their business objectives.</p></li>
 	        <li><a class="logo" href="http://moo.com"><img src="img/moo.png" alt="Moo dot com" height="170" width="160"></a></li>        
         </ul>
     </div>

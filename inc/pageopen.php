@@ -23,7 +23,7 @@
 	<div class="container">
         <header>
             <div class="twelve columns header">
-                <a class="home" href="./"><img src="img/lws_logo.jpg" height="200" alt="London Web Standards" >State of the browser 2012</a>
+                <a class="home" href="./"><img src="img/lws_logo.png" height="100" alt="London Web Standards" >State of the browser 2012</a>
             </div>
             <div class="four columns social">
                 <a href="https://twitter.com/share" class="twitter-share-button" data-size="large">Tweet</a>

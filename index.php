@@ -9,7 +9,7 @@
             <p>2012 is an exciting time for the web. Representatives from Opera, Google, Mozilla and Microsoft 
                 will be on hand to show us how their browser technologies are being used to bring the web to tablets, smartphones, 
                 games consoles and television. Keynote talks, Q&amp;A's, breakout 
-                sessions and socialising will give you get a better understanding of the modern cross-platform web.</p>
+                sessions and socialising will give you a better understanding of the modern, cross-platform web.</p>
         </div>
         <div id="presenters" class="home">
             <h2>Presenters include…</h2>

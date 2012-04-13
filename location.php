@@ -2,10 +2,17 @@
 <?php include("inc/navigation.php"); ?>
 
 <div id="location" class="eleven columns">
-    <h2>Venue - Ravensbourne</h2>
+    <h1>Venue - Ravensbourne</h1>
         <p id="address">6 Penrose Way, London, SE10 0EW</p>
         <div id="transport">
-            <h3>Getting There</h3>
+            <h2>Getting There</h2>
+			<div class="about-the-venue">
+	            <p>Ravensbourne is a stunning new building on the Greenwich Peninsula, located next door to The O2. 
+	            For more details on the space and how to get there, go to <a href="http://www.rave.ac.uk/">www.rave.ac.uk</a>.</p>
+	            <div id="map">
+	                <img src="/images/map-default.png" alt="Map showing Ravensbourne, next to North Greenwich tube station and the O2.">
+	            </div>
+	        </div>
             <dl class="public-transport">
                 <dt>
                     <h3>Tube</h3>
@@ -49,13 +56,7 @@
                 <dd>Please be aware there is no on-site parking at the venue.</dd>
             </dl>
         </div>
-        <div class="about-the-venue">
-            <p>Ravensbourne is a stunning new building on the Greenwich Peninsula, located next door to The O2. 
-            For more details on the space and how to get there, go to <a href="http://www.rave.ac.uk/">www.rave.ac.uk</a>.</p>
-            <div id="map">
-                <img src="/images/map-default.png" alt="Map showing Ravensbourne, next to North Greenwich tube station and the O2.">
-            </div>
-        </div>
+        
     </section>
 </div>
 <script src="http://maps.google.com/maps/api/js?sensor=false"></script>

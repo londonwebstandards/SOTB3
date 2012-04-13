@@ -7,7 +7,7 @@
     <div class="eight columns">
         <ul>
 			<li>
-				<a href="http://labs.ft.com"><img src="img/ft-labs.png" alt="Assanka" height="63" width="160"></a>
+				<a class="logo" href="http://labs.ft.com"><img src="img/ft-labs.png" alt="Assanka" width="160"></a>
 				<p>We are one of the world’s leading business news and information
 				organisations, recognised for our authority, integrity and accuracy.
 				FT Labs is an emerging web technologies group within the FT,

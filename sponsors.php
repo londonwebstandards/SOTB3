@@ -29,7 +29,6 @@
 				<p>Potato plays home to a multi-disciplined team of webdev experts, tackling projects that range from complex marketing initiatives like <a href="http://p.ota.to/work/google-engage/">Google Engage</a> and massive-scale <a href="http://p.ota.to/work/youtube/">YouTube channels</a>, to fun, interesting diversions like our <a href="http://p.ota.to/work/getfavicon/">getFavicon tool</a> (which serves over 100 req/sec).</p>
 				<p>We love working in the cloud, and as such develop almost solely using services like Google App Engine. As Potato continues to grow we’re also on the hunt for developers to <a href="http://p.ota.to/jobs/">join our team</a>.</p>
 			</li>
-            <li><a class="logo" href="http://twilio.com"><img src="img/twilio.png" alt="Twilio, Cloud Communications" height="66" width="160"></a></li>
 	        <li>
 		<a class="logo" href="http://e-noise.com"><img src="img/e-noise.png" alt="E-Noise" height="82" width="160"></a>
 		<p>E-NOISE is a small company based in East London (UK) specialising in hosting & building WordPress and Joomla! Websites. We pride ourselves in providing friendly human support and making hosting your website simple. We also develop custom web applications, plugins and themes.</p>

@@ -15,9 +15,16 @@
 				other innovative new ways of bringing FT content and services to
 				readers wherever they are</p>
 			</li>
-            <li><a class="logo" href="http://squiz.co.uk"><img src="img/squiz.png" alt="Squiz" height="60" width="160"></a>
+            <li>
+	<a class="logo" href="http://squiz.co.uk"><img src="img/squiz.png" alt="Squiz" height="60" width="160"></a>
 	<p>Squiz is a Supported Open Source Web Services company and our clients are our number one priority. Our team's focus is to create successful web solutions which enable our clients to excel online and meet their business objectives.</p></li>
-	        <li><a class="logo" href="http://moo.com"><img src="img/moo.png" alt="Moo dot com" height="170" width="160"></a></li>        
+	        <li>
+		<a class="logo" href="http://moo.com"><img src="img/moo.png" alt="Moo dot com" height="170" width="160"></a>
+		<p>We're a new kind of online printing business. We help our customers print things like
+		<a href="http://uk.moo.com/products/business-cards.html">Business Cards</a>,
+		<a href="http://uk.moo.com/products/postcards.html">Postcards</a> and
+		<a href="http://uk.moo.com/products/minicards.html">MiniCards</a>, making it easy for them to share information about themselves or their business in the real world.</p>
+		</li>        
         </ul>
     </div>
 

@@ -62,13 +62,15 @@ nav {
 }
 
 #presenters {
-	li h3 {
-		overflow: hidden;
-		height: 100px;
+	li {
+		h3 {
+			overflow: hidden;
+			height: 100px;
 		
-		&:before {
-			content: "~ ";
-			margin-left: -.9em;
+			&:before {
+				content: "~ ";
+				margin-left: -.9em;
+			}
 		}
 		
 		img {
@@ -76,6 +78,16 @@ nav {
 			float: left;
 			margin-right: 1em;
 		}
+	}
+	
+	&.home {
+		
+		li {
+			width: 100px;
+			height: 100px;
+			overflow: hidden;
+		}
+		
 	}
 }
 

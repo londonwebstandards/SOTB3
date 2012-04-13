@@ -29,7 +29,7 @@
                     <h3>Jason Grant (<a href="http://twitter.com/flexewebs/">@flexewebs</a>)</h3>
                 </li>
                 <li>
-                    <h3>Seb Lee-Delisle (<a href="http://twitter.com/sebly/">@seb_ly</a>)</h3>
+                    <h3>Seb Lee-Delisle (<a href="http://twitter.com/seb_ly/">@seb_ly</a>)</h3>
                 </li>
                 <li>
                     <h3>Rich Tibbett (<a href="http://twitter.com/richtibbett/">@richtibbett</a>)</h3>

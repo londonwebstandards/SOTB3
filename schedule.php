@@ -10,9 +10,9 @@
 		<li><h2><span class="time">9:00</span>	Registration</h2></li>
         <li><h2><span class="time">9:45</span>	Introduction from Michael Mahemoff</h2></li>
         <li><h2><span class="time">10:15</span>	No app is an island</h2>
-        <p>Description: The web is like a continent with roads linking everywhere to everywhere.  Apps are like isolated islands in an uncharted sea.  Learn how Web Intents builds bridges between these apps and to the rest of the web.  "</p>
-
-        <p>Paul Kinlan, Google</p></li>
+		<p>Paul Kinlan, Google</p>
+		<p>The web is like a continent with roads linking everywhere to everywhere.  Apps are like isolated islands in an uncharted sea.  Learn how Web Intents builds bridges between these apps and to the rest of the web.  "</p>
+		</li>
         <li><h2><span class="time">10:55</span>	Break</li></h2>
         <li><h2><span class="time">11:10</span>	The Web As It Should Be</h2>
         <p>Martin Beeby(@thebeebs), Internet Explorer</p>
@@ -50,7 +50,7 @@
 */
 ?>
         <li><h2><span class="time">15:50</span>	Break</h2></li>
-        <li><h2><span class="time">16:10</span>	Panel Q&A Discussion Chaired by Jim O'Donnell (@pekingspring)</h2></li>
+        <li><h2><span class="time">16:10</span>	Panel Q&amp;A Discussion</h2></li>
         <li><h2><span class="time">17:00</span>	Drinks at the Pilot Inn</h2></li>
 		</ul>
 

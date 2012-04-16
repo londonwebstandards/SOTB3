@@ -7,7 +7,7 @@
     <div class="eleven columns">
         
         <ul id="schedule">
-		<li><h2><span class="time">9:00</span> Registration</h2></li>
+		<li><span class="time">9:00</span> Registration</li>
         <li><h2><span class="time">9:45</span> Web vs Native: It Ain't Over 'Til It's Over</h2>
 		<p>Michael Mahemoff</p>
 		<p>The web has evolved from a document exchange protocol into a platform for rich internet applications. But there's much more to the web than video, canvas, and a hundred other APIs. There are unique, underlying, principles for both the technology and the evolution of that technology. As the web faces growing challenges such as a proliferation of form factors, sensors, and interaction styles, will these principles help or hinder?</p>

@@ -8,7 +8,10 @@
         
         <ul id="schedule">
 		<li><h2><span class="time">9:00</span>	Registration</h2></li>
-        <li><h2><span class="time">9:45</span>	Introduction from Michael Mahemoff</h2></li>
+        <li><h2><span class="time">9:45</span>	Web vs Native: It Ain't Over 'Til It's Over</h2>
+		<p>Michael Mahemoff</p>
+		<p>The web has evolved from a document exchange protocol into a platform for rich internet applications. But there's much more to the web than video, canvas, and a hundred other APIs. There are unique, underlying, principles for both the technology and the evolution of that technology. As the web faces growing challenges such as a proliferation of form factors, sensors, and interaction styles, will these principles help or hinder?</p>
+		</li>
         <li><h2><span class="time">10:15</span>	No app is an island</h2>
 		<p>Paul Kinlan, Google</p>
 		<p>The web is like a continent with roads linking everywhere to everywhere.  Apps are like isolated islands in an uncharted sea.  Learn how Web Intents builds bridges between these apps and to the rest of the web.  "</p>

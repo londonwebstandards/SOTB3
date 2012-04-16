@@ -10,7 +10,7 @@
 	            <p>Ravensbourne is a stunning new building on the Greenwich Peninsula, located next door to The O2. 
 	            For more details on the space and how to get there, go to <a href="http://www.rave.ac.uk/">www.rave.ac.uk</a>.</p>
 	            <div id="map">
-	                <img src="/images/map-default.png" alt="Map showing Ravensbourne, next to North Greenwich tube station and the O2.">
+	                <img src="/img/map-default.png" alt="Map showing Ravensbourne, next to North Greenwich tube station and the O2.">
 	            </div>
 	        </div>
             <dl class="public-transport">

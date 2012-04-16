@@ -145,8 +145,13 @@ nav {
 
 #schedule {
 	
-	li:nth-child(2n) {
-		background-color: rgba(255, 255, 255, .7);
+	li {
+		margin-left: -10px;
+		padding-left: 10px;
+		
+		&:nth-child(2n+1) {
+			background-color: rgba(255, 255, 255, .8);
+		}
 	}
 	
 	h2 {

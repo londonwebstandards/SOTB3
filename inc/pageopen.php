@@ -24,7 +24,7 @@
         <header>
             <div class="twelve columns header">
                 <a class="home" href="./"><img src="img/lws_logo.png" height="100" alt="London Web Standards" ><span class="name fn">State of the browser 2012</span></a>
-				<span>Ravensbourne, 9 to 5pm Saturday, 28th April 2012</span>
+				<p>Ravensbourne, 9 to 5pm Saturday, 28th April 2012</p>
             </div>
             <div class="four columns social">
                 <a href="https://twitter.com/share" class="twitter-share-button" data-size="large">Tweet</a>

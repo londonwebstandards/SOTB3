@@ -16,7 +16,7 @@
 		<p>Paul Kinlan, Google</p>
 		<p>The web is like a continent with roads linking everywhere to everywhere.  Apps are like isolated islands in an uncharted sea.  Learn how Web Intents builds bridges between these apps and to the rest of the web.</p>
 		</li>
-        <li><h2><span class="time">11:00</span> Break</li></h2>
+        <li><span class="time">11:00</span> Break</li>
         <li><h2><span class="time">11:15</span> The Web As It Should Be</h2>
         <p>Martin Beeby, Microsoft</p>
 

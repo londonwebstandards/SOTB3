@@ -54,7 +54,7 @@
 */
 ?>
         <li><h2><span class="time">16:30</span> Panel Q&amp;A Discussion</h2></li>
-        <li><h2><span class="time">17:00</span> Drinks at the Pilot Inn</h2></li>
+        <li><h2><span class="time">17:00</span>  Drinks at the Pilot Inn</h2></li>
 		</ul>
 
         

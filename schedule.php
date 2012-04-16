@@ -7,27 +7,27 @@
     <div class="eleven columns">
         
         <ul id="schedule">
-		<li><h2><span class="time">9:00</span>	Registration</h2></li>
-        <li><h2><span class="time">9:45</span>	Web vs Native: It Ain't Over 'Til It's Over</h2>
+		<li><h2><span class="time">9:00</span> Registration</h2></li>
+        <li><h2><span class="time">9:45</span> Web vs Native: It Ain't Over 'Til It's Over</h2>
 		<p>Michael Mahemoff</p>
 		<p>The web has evolved from a document exchange protocol into a platform for rich internet applications. But there's much more to the web than video, canvas, and a hundred other APIs. There are unique, underlying, principles for both the technology and the evolution of that technology. As the web faces growing challenges such as a proliferation of form factors, sensors, and interaction styles, will these principles help or hinder?</p>
 		</li>
-        <li><h2><span class="time">10:15</span>	No app is an island</h2>
+        <li><h2><span class="time">10:15</span> No app is an island</h2>
 		<p>Paul Kinlan, Google</p>
 		<p>The web is like a continent with roads linking everywhere to everywhere.  Apps are like isolated islands in an uncharted sea.  Learn how Web Intents builds bridges between these apps and to the rest of the web.  "</p>
 		</li>
-        <li><h2><span class="time">11:00</span>	Break</li></h2>
-        <li><h2><span class="time">11:15</span>	The Web As It Should Be</h2>
+        <li><h2><span class="time">11:00</span> Break</li></h2>
+        <li><h2><span class="time">11:15</span> The Web As It Should Be</h2>
         <p>Martin Beeby, Microsoft</p>
 
         <p>With the advent of CSS3 and the ever-greater maturity of HTML5, it’s an exciting time for the Web. The possibilities for creating truly engaging – even addictive – Web and business applications appear limitless. And, with the release of Internet Explorer 9, Microsoft finally came in from the cold after many years in the world wide wilderness.</p>
 
         <p>As Internet Explorer moves towards full support of standards-based HTML5 and CSS3, this is a great opportunity to hear from Martin Beeby about how these key technologies will be used to build and deliver the applications of tomorrow, engage end-users like never before, and generate even greater loyalty to Web-sites."</p></li>
-        <li><h2><span class="time">12:00</span>	Chris Heillman, Mozilla</h2></li>
-        <li><span class="time">12:45</span>	Lunch</li>
-		<li><h2><span class="time">13:45</span>	Battle of the Browsers</h2>
+        <li><h2><span class="time">12:00</span> Chris Heillman, Mozilla</h2></li>
+        <li><span class="time">12:45</span> Lunch</li>
+		<li><h2><span class="time">13:45</span> Battle of the Browsers</h2>
 		<p>Seb Lee-DeLisle, CreativeJS</p></li>
-        <li><h2><span class="time">14:00</span>	HTML5: A matter of good form</h2>
+        <li><h2><span class="time">14:00</span> HTML5: A matter of good form</h2>
         <p>Patrick Lauke, Opera</p>
 		</li>
         <li><h2><span class="time">14:45</span> Breakout session 1</h2> </li>
@@ -53,8 +53,8 @@
         Chris Mills, Opera</li></ul></li>
 */
 ?>
-        <li><h2><span class="time">16:30</span>	Panel Q&amp;A Discussion</h2></li>
-        <li><h2><span class="time">17:00</span>	Drinks at the Pilot Inn</h2></li>
+        <li><h2><span class="time">16:30</span> Panel Q&amp;A Discussion</h2></li>
+        <li><h2><span class="time">17:00</span> Drinks at the Pilot Inn</h2></li>
 		</ul>
 
         

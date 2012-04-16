@@ -19,9 +19,6 @@
                 <li>
                     <img src="http://a0.twimg.com/profile_images/1648506030/denmark.png" alt="@thebeebs"> <span class="name fn">Martin Beeby</span>
                 </li>
-				<li>
-                    <img src="http://a0.twimg.com/profile_images/1213141308/redux-yellow.jpg" alt="@patrick_h_lauke"> <span class="name fn">Patrick Lauke</span>
-                </li>
                 <li>
                     <img src="http://a0.twimg.com/profile_images/1666904408/codepo8.png" alt="@codepo8"> <span class="name fn">Christian Heillman</span>
                 </li>

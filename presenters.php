@@ -13,9 +13,6 @@
                 <li>
                     <img src="http://a0.twimg.com/profile_images/1648506030/denmark.png" alt="@thebeebs"> <span class="name fn">Martin Beeby (<a href="http://twitter.com/thebeebs/">@thebeebs</a>)</span> Martin works for Microsoft where he evangelises HTML5 and the web. He’s been a developer since the late 90s and loves figuring out problems and experimenting with code.
                 </li>
-				<li>
-                    <img src="http://a0.twimg.com/profile_images/1213141308/redux-yellow.jpg" alt="@patrick_h_lauke"> <span class="name fn">Patrick Lauke (<a href="http://twitter.com/patrick_h_lauke/">@patrick_h_lauke</a>)</span>
-                </li>
                 <li>
                     <img src="http://a0.twimg.com/profile_images/1666904408/codepo8.png" alt="@codepo8"> <span class="name fn">Christian Heillman (<a href="http://twitter.com/codepo8/">@codepo8</a>)</span>
                 </li>

@@ -8,8 +8,7 @@
         <ul>
 			<li>
 				<a class="logo" href="http://labs.ft.com"><img src="img/ft-labs.png" alt="FT Labs" width="160"></a>
-				<p>We are one of the world’s leading business news and information
-				organisations, recognised for our authority, integrity and accuracy.
+				<p>The Financial Times is one of the world’s leading business news and information organisations, recognised for our authority, integrity and accuracy.
 				FT Labs is an emerging web technologies group within the FT,
 				responsible for producing our HTML5 web app at <a href="http://app.ft.com">app.ft.com</a>, as well as
 				other innovative new ways of bringing FT content and services to

@@ -8,31 +8,31 @@
         <div id="presenters">            
             <ul>
                 <li>
-                    <h3><img src="img/speakers/michael_mahemoff_150.png" alt="@mahemoff"> Michael Mahemoff (<a href="http://twitter.com/mahemoff/">@mahemoff</a>)</h3>
+                    <img src="img/speakers/michael_mahemoff_150.png" alt="@mahemoff"> Michael Mahemoff, Ph.D., is a full-stack HTML5 developer and writer. His most recent full-time role was at Google, where he helped developers bring out their best on the HTML5 and Chrome platforms. He has performed development, user experience, and developer relation roles im the past, and authored "Ajax Design Patterns" for O'Reilly to capture to capture industry best practices as Ajax was taking off. He's currently baking web apps independently with Ruby on Rails, NodeJS, and, of course, HTML5. He's @mahemoff on Twitter and his homepage is http://mahemoff.com.
                 </li>
                 <li>
-                    <h3><img src="http://a0.twimg.com/profile_images/1648506030/denmark.png" alt="@thebeebs"> Martin Beeby (<a href="http://twitter.com/thebeebs/">@thebeebs</a>)</h3>
+                    <img src="http://a0.twimg.com/profile_images/1648506030/denmark.png" alt="@thebeebs"> Martin Beeby (<a href="http://twitter.com/thebeebs/">@thebeebs</a>) Martin works for Microsoft where he evangelises HTML5 and the web. He’s been a developer since the late 90s and loves figuring out problems and experimenting with code.
                 </li>
 				<li>
-                    <h3><img src="http://a0.twimg.com/profile_images/1213141308/redux-yellow.jpg" alt="@patrick_h_lauke"> Patrick Lauke (<a href="http://twitter.com/patrick_h_lauke/">@patrick_h_lauke</a>)</h3>
+                    <img src="http://a0.twimg.com/profile_images/1213141308/redux-yellow.jpg" alt="@patrick_h_lauke"> Patrick Lauke (<a href="http://twitter.com/patrick_h_lauke/">@patrick_h_lauke</a>)
                 </li>
                 <li>
-                    <h3><img src="http://a0.twimg.com/profile_images/1666904408/codepo8.png" alt="@codepo8"> Christian Heillman (<a href="http://twitter.com/codepo8/">@codepo8</a>)</h3>
+                    <img src="http://a0.twimg.com/profile_images/1666904408/codepo8.png" alt="@codepo8"> Christian Heillman (<a href="http://twitter.com/codepo8/">@codepo8</a>)
                 </li>
                 <li>
-                    <h3><img src="img/speakers/peter_gasston_150.jpg" alt="@stopsatgreen"> Peter Gasston (<a href="http://twitter.com/stopsatgreen/">@stopsatgreen</a>)</h3>
+                    <img src="img/speakers/peter_gasston_150.jpg" alt="@stopsatgreen"> Peter Gasston (<a href="http://twitter.com/stopsatgreen/">@stopsatgreen</a>) Peter is a web developer, writer, public speaker, and author of <a href="http://thebookofcss3.com/">The Book of CSS3</a>. He blogs at <a href="http://broken-links.com/">Broken Links</a> and tweets as <a href="http://twitter.com/stopsatgreen">@stopsatgreen</a>. He likes history, gorillas, and Arsenal FC.
                 </li>
                 <li>
-                    <h3><img src="http://a0.twimg.com/profile_images/1280643875/me2.jpg" alt="@paul_kinlan"> Paul Kinlan (<a href="http://twitter.com/paul_kinlan/">@paul_kinlan</a>)</h3>
+                    <img src="http://a0.twimg.com/profile_images/1280643875/me2.jpg" alt="@paul_kinlan"> Paul Kinlan (<a href="http://twitter.com/paul_kinlan/">@paul_kinlan</a>) Developer Advocate at Google on Chrome. Mr Web Intents. Developer of many techie things including Twollo, Twe2, Topicala, Ahoyo and FriendDeck.
                 </li>
                 <li>
-                    <h3><img src="http://a0.twimg.com/profile_images/150326469/n835305082_6420882_6480795.jpg" alt="@flexewebs"> Jason Grant (<a href="http://twitter.com/flexewebs/">@flexewebs</a>)</h3>
+                    <img src="http://a0.twimg.com/profile_images/150326469/n835305082_6420882_6480795.jpg" alt="@flexewebs"> Jason Grant (<a href="http://twitter.com/flexewebs/">@flexewebs</a>) Jason has worked on UX design for some of the largest web programmes in the world: Bupa, Directgov, Lloyds Banking Group, EON Energy Fit, Legal &amp; General, etc. He made his way initially through back and front end development and is now exploring the depths of Experience Architecture field. He has special interest in game design, service design and product design. He can be regularly seen working throughout the night at hack days around London.
                 </li>
                 <li>
-                    <h3><img src="http://a0.twimg.com/profile_images/1232663381/5388246284_df5b90b720_b-1.jpeg" alt="@seb_ly"> Seb Lee-Delisle (<a href="http://twitter.com/seb_ly/">@seb_ly</a>)</h3>
+                    <img src="http://a0.twimg.com/profile_images/1232663381/5388246284_df5b90b720_b-1.jpeg" alt="@seb_ly"> Seb Lee-Delisle (<a href="http://twitter.com/seb_ly/">@seb_ly</a>)
                 </li>
                 <li>
-                    <h3><img src="http://a0.twimg.com/profile_images/1539099529/me4.jpg" alt="@richtibbet"> Rich Tibbett (<a href="http://twitter.com/richtibbett/">@richtibbett</a>)</h3>
+                    <img src="http://a0.twimg.com/profile_images/1539099529/me4.jpg" alt="@richtibbet"> Rich Tibbett (<a href="http://twitter.com/richtibbett/">@richtibbett</a>)
                 </li>
             </ul>
         </div>            

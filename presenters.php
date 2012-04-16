@@ -8,7 +8,7 @@
         <div id="presenters">            
             <ul>
                 <li>
-                    <h3><img src="http://a0.twimg.com/profile_images/1150432577/speakhdr.jpg" alt="@mahemoff"> Michael Mahemoff (<a href="http://twitter.com/mahemoff/">@mahemoff</a>)</h3>
+                    <h3><img src="img/speakers/michael_mahemoff_150.png" alt="@mahemoff"> Michael Mahemoff (<a href="http://twitter.com/mahemoff/">@mahemoff</a>)</h3>
                 </li>
                 <li>
                     <h3><img src="http://a0.twimg.com/profile_images/1648506030/denmark.png" alt="@thebeebs"> Martin Beeby (<a href="http://twitter.com/thebeebs/">@thebeebs</a>)</h3>
@@ -20,7 +20,7 @@
                     <h3><img src="http://a0.twimg.com/profile_images/1666904408/codepo8.png" alt="@codepo8"> Christian Heillman (<a href="http://twitter.com/codepo8/">@codepo8</a>)</h3>
                 </li>
                 <li>
-                    <h3><img src="http://a0.twimg.com/profile_images/391831398/peter_opie.png" alt="@stopsatgreen"> Peter Gasston (<a href="http://twitter.com/stopsatgreen/">@stopsatgreen</a>)</h3>
+                    <h3><img src="img/speakers/peter_gasston_400.jpg" alt="@stopsatgreen"> Peter Gasston (<a href="http://twitter.com/stopsatgreen/">@stopsatgreen</a>)</h3>
                 </li>
                 <li>
                     <h3><img src="http://a0.twimg.com/profile_images/1280643875/me2.jpg" alt="@paul_kinlan"> Paul Kinlan (<a href="http://twitter.com/paul_kinlan/">@paul_kinlan</a>)</h3>

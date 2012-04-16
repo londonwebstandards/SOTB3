@@ -15,7 +15,7 @@
             <h2>Presenters include…</h2>
             <ul>
                 <li>
-                    <img src="http://a0.twimg.com/profile_images/1150432577/speakhdr.jpg" alt="@mahemoff"> <span class="name fn">Michael Mahemoff</span>             </li>
+                    <img src="img/speakers/michael_mahemoff_150.png" alt="@mahemoff"> <span class="name fn">Michael Mahemoff</span>             </li>
                 <li>
                     <img src="http://a0.twimg.com/profile_images/1648506030/denmark.png" alt="@thebeebs"> <span class="name fn">Martin Beeby</span>
                 </li>
@@ -26,7 +26,7 @@
                     <img src="http://a0.twimg.com/profile_images/1666904408/codepo8.png" alt="@codepo8"> <span class="name fn">Christian Heillman</span>
                 </li>
                 <li>
-                    <img src="http://a0.twimg.com/profile_images/391831398/peter_opie.png" alt="@stopsatgreen"> <span class="name fn">Peter Gasston</span>
+                    <img src="img/speakers/peter_gasston_400.jpg" alt="@stopsatgreen"> <span class="name fn">Peter Gasston</span>
                 </li>
                 <li>
                     <img src="http://a0.twimg.com/profile_images/1280643875/me2.jpg" alt="@paul_kinlan"> <span class="name fn">Paul Kinlan</span> 

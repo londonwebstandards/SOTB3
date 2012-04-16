@@ -29,11 +29,12 @@
 		<p>Seb Lee-DeLisle, CreativeJS</p>
 		<p>After a full day of Chrome, Firefox and Opera bigging themselves up, it's time to put their money where their mouth is. Yeah sure, they can all parse HTML and be all accessible and stuff. But now's the time for the most irrelevant test of all! In code written from scratch, Seb will find out which browser can render the most 3D pixels ever!</p>
 		</li>
-        <li><h2><span class="time">14:05</span> HTML5: A matter of good form</h2>
+        <li><h2><span class="time">14:00</span> HTML5: A matter of good form</h2>
         <p>Patrick Lauke, Opera</p>
 		</li>
-        <li><h2><span class="time">14:55</span> Breakout session 1</h2> </li>
-		<li><span class="time">15:40</span> Break </li>
+		<li><span class="time">14:45</span> Break </li>
+        <li><h2><span class="time">14:50</span> Breakout session 1</h2> </li>
+		<li><span class="time">15:35</span> Break </li>
         <li><h2><span class="time">15:50</span> Breakout session 2</h2></li>
 <?
 /*

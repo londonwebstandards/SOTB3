@@ -26,7 +26,9 @@
                     <img src="http://a0.twimg.com/profile_images/150326469/n835305082_6420882_6480795.jpg" alt="@flexewebs"> <span class="name fn">Jason Grant (<a href="http://twitter.com/flexewebs/">@flexewebs</a>)</span> Jason has worked on UX design for some of the largest web programmes in the world: Bupa, Directgov, Lloyds Banking Group, EON Energy Fit, Legal &amp; General, etc. He made his way initially through back and front end development and is now exploring the depths of Experience Architecture field. He has special interest in game design, service design and product design. He can be regularly seen working throughout the night at hack days around London.
                 </li>
                 <li>
-                    <img src="http://a0.twimg.com/profile_images/1232663381/5388246284_df5b90b720_b-1.jpeg" alt="@seb_ly"> <span class="name fn">Seb Lee-Delisle (<a href="http://twitter.com/seb_ly/">@seb_ly</a>)</span>
+                    <img src="http://a0.twimg.com/profile_images/1232663381/5388246284_df5b90b720_b-1.jpeg" alt="@seb_ly"> <span class="name fn">Seb Lee-Delisle (<a href="http://twitter.com/seb_ly/">@seb_ly</a>)</span> Seb Lee-Delisle is a creative coder, speaker and teacher, working across platforms including JavaScript, Processing and openFrameworks. He works to bring people together with large scale installations like PixelPhones, interactive firework displays or glow-stick voting systems.
+<p>His work has pushed the boundaries of what is possible both on and off the web, and won two BAFTAs with Plug-in Media, the agency he co-founded in 2004.</p>
+<p>A sought-after speaker, his recent Creative JavaScript / HTML5 workshop series sold out within hours. He co-hosts the Creative Coding Podcast, his blog can be found at <a href="http://seb.ly">seb.ly</a> and he tweets <a href="http://twitter.com/seb_ly/">@seb_ly</a>.</p>
                 </li>
                 <li>
                     <img src="http://a0.twimg.com/profile_images/1539099529/me4.jpg" alt="@richtibbet"> <span class="name fn">Rich Tibbett (<a href="http://twitter.com/richtibbett/">@richtibbett</a>)</span>

@@ -36,8 +36,8 @@
         <ul>
 			<li>
 				<a class="logo" href="http://p.ota.to/"><img src="img/potato.png" alt="Potato" height="182" width="160"></a>
-				<p>Founded in 2010, Potato is a rapidly-growing creator of complex web apps, working with companies like Google, BBH, Mother and PayPal from London, Bristol and Amsterdam.</p>
-				<p>Potato plays home to a multi-disciplined team of webdev experts, tackling projects that range from complex marketing initiatives like <a href="http://p.ota.to/work/google-engage/">Google Engage</a> and massive-scale <a href="http://p.ota.to/work/youtube/">YouTube channels</a>, to fun, interesting diversions like our <a href="http://p.ota.to/work/getfavicon/">getFavicon tool</a> (which serves over 100 req/sec).</p>
+				<p>Founded in 2010, Potato is a rapidly-growing creator of complex web apps, working with companies like Google, BBH, Mother and PayPal from London, Bristol, Amsterdam and San Francisco.</p>
+				<p>Potato plays home to a multi-disciplined team of webdev experts, tackling projects that range from complex marketing initiatives like <a href="http://p.ota.to/work/google-engage/">Google Engage</a> and <a href="http://p.ota.to/work/getting-business-online/">Getting Business Online</a>, to massive-scale <a href="http://p.ota.to/work/youtube/">YouTube channels</a>.</p>
 				<p>We love working in the cloud, and as such develop almost solely using services like Google App Engine. As Potato continues to grow we’re also on the hunt for developers to <a href="http://p.ota.to/jobs/">join our team</a>.</p>
 			</li>
 	        

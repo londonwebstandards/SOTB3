@@ -14,7 +14,10 @@
                     <img src="http://a0.twimg.com/profile_images/1648506030/denmark.png" alt="@thebeebs"> <span class="name fn">Martin Beeby (<a href="http://twitter.com/thebeebs/">@thebeebs</a>)</span> Martin works for Microsoft where he evangelises HTML5 and the web. He’s been a developer since the late 90s and loves figuring out problems and experimenting with code.
                 </li>
                 <li>
-                    <img src="http://a0.twimg.com/profile_images/1666904408/codepo8.png" alt="@codepo8"> <span class="name fn">Christian Heillman (<a href="http://twitter.com/codepo8/">@codepo8</a>)</span>
+                    <img src="http://a0.twimg.com/profile_images/1666904408/codepo8.png" alt="@codepo8"> <span class="name fn">Christian Heillman (<a href="http://twitter.com/codepo8/">@codepo8</a>)</span> Chris Heilmann has dedicated a lot of his time making the web better. Originally coming from a radio journalism background, he built his first web site from scratch around 1997 and spent the following years working on lots of large, international web sites.
+					<p>He then spent a few years in Yahoo building products and explaining and training people and is now at Mozilla as the "Principal Evangelist".</p>
+
+					<p>Chris wrote and contributed to six books on web development and wrote many articles and hundreds of blog posts for Ajaxian, Smashingmagazine, Yahoo, Mozilla, ScriptJunkie and many more.</p>
                 </li>
                 <li>
                     <img src="img/speakers/peter_gasston_150.jpg" alt="@stopsatgreen"> <span class="name fn">Peter Gasston (<a href="http://twitter.com/stopsatgreen/">@stopsatgreen</a>)</span> Peter is a web developer, writer, public speaker, and author of <a href="http://thebookofcss3.com/">The Book of CSS3</a>. He blogs at <a href="http://broken-links.com/">Broken Links</a> and tweets as <a href="http://twitter.com/stopsatgreen">@stopsatgreen</a>. He likes history, gorillas, and Arsenal FC.

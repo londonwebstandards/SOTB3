@@ -34,7 +34,7 @@
 <p>A sought-after speaker, his recent Creative JavaScript / HTML5 workshop series sold out within hours. He co-hosts the Creative Coding Podcast, his blog can be found at <a href="http://seb.ly">seb.ly</a> and he tweets <a href="http://twitter.com/seb_ly/">@seb_ly</a>.</p>
                 </li>
                 <li>
-                    <img src="http://a0.twimg.com/profile_images/1539099529/me4.jpg" alt="@richtibbet"> <span class="name fn">Rich Tibbett (<a href="http://twitter.com/richtibbett/">@richtibbett</a>)</span>
+                    <img src="http://a0.twimg.com/profile_images/1539099529/me4.jpg" alt="@richtibbet"> <span class="name fn">Rich Tibbett (<a href="http://twitter.com/richtibbett/">@richtibbett</a>)</span> Rich Tibbett is a Core Platform Architect at Opera Software ASA who is to be commonly found in the trenches of creating, improving and implementing cutting-edge Web APIs across all of Opera's products. He currently leads up Core Extension and Device API development at Opera and he also contributes and edits a number of emerging technology recommendations at the W3C.
                 </li>
             </ul>
         </div>            

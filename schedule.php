@@ -23,7 +23,10 @@
         <p>With the advent of CSS3 and the ever-greater maturity of HTML5, it’s an exciting time for the Web. The possibilities for creating truly engaging – even addictive – Web and business applications appear limitless. And, with the release of Internet Explorer 9, Microsoft finally came in from the cold after many years in the world wide wilderness.</p>
 
         <p>As Internet Explorer moves towards full support of standards-based HTML5 and CSS3, this is a great opportunity to hear from Martin Beeby about how these key technologies will be used to build and deliver the applications of tomorrow, engage end-users like never before, and generate even greater loyalty to Web-sites.</p></li>
-        <li><h2><span class="time">12:00</span> Chris Heillman, Mozilla</h2></li>
+        <li><h2><span class="time">12:00</span> Broken HTML5 promises - are we 'appy?</h2>
+	<p>Chris Heilmann, Mozilla</p>
+	<p>It's been quite some while that the marketing drums heralded HTML5 as "The Flash Killer" and the future of the web and apps. Time to take a look at what happens and what we can do with the set of tools we have at our disposal. Chris Heilmann will go through a series of questions asked by people not in the "HTML5 scene" and how far we are when it comes to being able to answer them. We'll try to see what the barriers are and what can be done to remove them. HTML5 and friends can be a great app platform - if we play it to its strengths and not try to emulate what others do. Chris will show what Mozilla is doing to make this happen and how you could be a part of this.</p>
+	</li>
         <li><span class="time">12:45</span> Lunch</li>
 		<li><h2><span class="time">13:45</span> Battle of the Browsers</h2>
 		<p>Seb Lee-DeLisle, CreativeJS</p>

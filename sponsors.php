@@ -31,7 +31,7 @@
             </li>
 
             <li>
-                <a class="logo" href="http://www.annalect.com/"><img src="img/Annalect-LogoCMYK.png" alt="Annalect Group" height="51" width="160"></a>
+                <a class="logo" href="http://www.annalect.com/"><img src="img/annalect.jpg" alt="Annalect Group" height="51" width="160"></a>
                 <p>Annalect creates and maintains <strong>enterprise marketing solutions</strong> for clients and agencies that deliver deep insights and accurate audience targeting to drive sales and improve ROI.  These solutions are made possible by the wave of innovation in digital, data and analytics.</p>
             </li>
         </ul>

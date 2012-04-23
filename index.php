@@ -35,6 +35,9 @@
                     <img src="http://a0.twimg.com/profile_images/1232663381/5388246284_df5b90b720_b-1.jpeg" alt="@seb_ly"> <span class="name fn">Seb Lee-Delisle</span>
                 </li>
                 <li>
+                    <img src="img/bruce-lawson.jpg" alt="@brucel Bruce Lawson"> <span class="name fn">Bruce Lawson</span>
+                </li>
+                <li>
                     <img src="http://a0.twimg.com/profile_images/1539099529/me4.jpg" alt="@richtibbet"> <span class="name fn">Rich Tibbett</span>
                 </li>
             </ul>

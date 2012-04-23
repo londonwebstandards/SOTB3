@@ -36,9 +36,9 @@
                 <li>
                     <p><img src="img/bruce-lawson.jpg" alt="@brucel Bruce Lawson"> <span class="name fn">Bruce Lawson (<a target="_blank" href="http://twitter.com/brucel/">@brucel</a>)</span> Bruce evangelises open web standards for Opera. He co-write <a target="_blank" href="http://introducinghtml5.com/">Introducing HTML5</a> with Remy Sharp, and his new coffee-table book, "Mankini Magic: Gussets of Glory" is banned in 8 continents. Follow him at <a href="http://twitter.com">@brucel</a>, or leave insulting comments at <a href="http://brucelawson.co.uk">www.brucelawson.co.uk</a>.</p>
                 </li>
-                <li>
+                <!--<li>
                     <p><img src="http://a0.twimg.com/profile_images/1539099529/me4.jpg" alt="@richtibbet"> <span class="name fn">Rich Tibbett (<a href="http://twitter.com/richtibbett/">@richtibbett</a>)</span> Rich Tibbett is a Core Platform Architect at Opera Software ASA who is to be commonly found in the trenches of creating, improving and implementing cutting-edge Web APIs across all of Opera's products. He currently leads up Core Extension and Device API development at Opera and he also contributes and edits a number of emerging technology recommendations at the W3C.</p>
-                </li>
+                </li>-->
             </ul>
         </div>            
     </div>

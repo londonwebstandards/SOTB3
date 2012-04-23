@@ -37,9 +37,9 @@
                 <li>
                     <img src="img/bruce-lawson.jpg" alt="@brucel Bruce Lawson"> <span class="name fn">Bruce Lawson</span>
                 </li>
-                <li>
+                <!--<li>
                     <img src="http://a0.twimg.com/profile_images/1539099529/me4.jpg" alt="@richtibbet"> <span class="name fn">Rich Tibbett</span>
-                </li>
+                </li>-->
             </ul>
         </div>            
     </div>

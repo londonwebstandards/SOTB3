@@ -34,6 +34,11 @@
                 <a class="logo" href="http://www.annalect.com/"><img src="img/annalect.jpg" alt="Annalect Group" height="51" width="160"></a>
                 <p>Annalect creates and maintains <strong>enterprise marketing solutions</strong> for clients and agencies that deliver deep insights and accurate audience targeting to drive sales and improve ROI.  These solutions are made possible by the wave of innovation in digital, data and analytics.</p>
             </li>
+            
+            <li>
+                <a class="logo" href="http://www.ubelly.com" ><img src="img/ubelly.png" alt="Ubelly" /></a>
+                <p>Ubelly is the unofficial official Microsoft blog for developers and designers who love the web. We cover the events you want to go to, write about the things you want to read about and care about the things you care about.</p>
+            </li>
         </ul>
     </div>
 
@@ -44,6 +49,13 @@
                 <p>Founded in 2010, Potato is a rapidly-growing creator of complex web apps, working with companies like Google, BBH, Mother and PayPal from London, Bristol, Amsterdam and San Francisco.</p>
                 <p>Potato plays home to a multi-disciplined team of webdev experts, tackling projects that range from complex marketing initiatives like <a href="http://p.ota.to/work/google-engage/">Google Engage</a> and <a href="http://p.ota.to/work/getting-business-online/">Getting Business Online</a>, to massive-scale <a href="http://p.ota.to/work/youtube/">YouTube channels</a>.</p>
                 <p>We love working in the cloud, and as such develop almost solely using services like Google App Engine. As Potato continues to grow we’re also on the hunt for developers to <a href="http://p.ota.to/jobs/">join our team</a>.</p>
+            </li>
+            
+            <li>
+                <a class="logo" href="http://www.binaryvision.com"><img src="img/BV-logo-with-transparent.png" alt="Binary Vision" /></a>
+                <p>Binary Vision is a small, friendly, full-service digital agency based in central London. We started out in 1985 (we have some museum pieces at our office) and we mostly work with public service / healthcare clients.</p>
+
+                <p>We’re not recruiting right now but we are always looking for good freelancers. Drop us a line.  ### <a href="mailto:rbowater@binaryvision.com" title="Contact Binary Vision via email">rbowater@binaryvision.com</a> ###            </p>
             </li>
 
             <li><a class="logo" href="http://seb.ly/training"><img src="img/creativejs.jpg" alt="CreativeJS Training" width="160"></a>

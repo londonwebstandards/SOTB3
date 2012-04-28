@@ -24,8 +24,11 @@
 	<div class="container">
         <header>
             <div class="twelve columns header">
-                <a class="home" href="./"><img src="img/lws_logo.png" height="100" alt="London Web Standards" ><span class="name fn">State of the browser 2012</span></a>
-				<p>Ravensbourne, 9am to 5pm Saturday, 28th April 2012</p>
+                <a class="home" href="./">
+					<img src="img/state_of_the_browser.png" height="41" alt="London Web Standards">
+					<!-- span class="name fn">State of the browser 2012</span -->
+				</a>
+				<p class="date">Ravensbourne, 9am to 5pm Saturday, 28th April 2012</p>
             </div>
             <div class="four columns social">
                 <a href="https://twitter.com/share" class="twitter-share-button" data-size="large">Tweet</a>

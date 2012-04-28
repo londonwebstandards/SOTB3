@@ -9,6 +9,7 @@ header {
 nav {
 	z-index: 10;
 	display: block;
+	margin-bottom: 20px;
 	ul {
 		margin: 0;
 		background: none;
@@ -52,9 +53,10 @@ nav {
 
 .container {
 	clear: both;
+	margin-top: 10px;
 	z-index: 1;
 	background: none;
-	background-color: rgba(255, 255, 255, .7);
+	/* background-color: rgba(255, 255, 255, .7);*/
 	filter:~"progid:DXImageTransform.Microsoft.gradient(startColorstr=#70ffffff,endColorstr=#70ffffff)";
 	-ms-filter:~"progid:DXImageTransform.Microsoft.gradient(startColorstr=#70ffffff,endColorstr=#70ffffff)";
 	zoom: 1;
@@ -68,19 +70,29 @@ nav {
 		line-height: 2em;
 		text-decoration: none;
 		word-spacing: -.1em;
+		padding: 10px 0;
+		display: block;
+		float: left;
 		
-		&:hover, &:focus {
+		/* &:hover, &:focus {
 			
 			span {
 				background: #555;
 				color: #eee;
 			}
-		}
+		}*/
 		
 		img {
 			vertical-align: middle;
 			float: left;
 		}
+	}
+	
+	.date {
+		clear: left;
+		font-family:"Museo Sans 700", Arial, 'Helvetica Neue', Helvetica, sans-serif; font-weight:700; font-style:normal;
+		margin-top: 10px;
+		display: block;
 	}
 }
 #sponsors {
@@ -90,6 +102,7 @@ nav {
 		text-align: center;
 		border: 1px solid #dddddd;
 		width: 220px;
+		margin-bottom: 10px;
 		
 		-moz-transition:background-color 0.2s linear;
 		-o-transition:background-color 0.2s linear;
@@ -195,4 +208,8 @@ nav {
 
 #map {
 	height: 300px;
+}
+
+#videoContainer {
+	text-align: middle;
 }

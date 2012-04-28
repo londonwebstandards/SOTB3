@@ -31,7 +31,7 @@
             </li>
 
             <li>
-                <a class="logo" href="http://www.annalect.com/"><img src="img/annalect.jpg" alt="Annalect Group" height="51" width="160"></a>
+                <a class="logo" href="http://www.annalect.com/"><img src="img/annalect.png" alt="Annalect Group" height="51" width="160"></a>
                 <p>Annalect creates and maintains <strong>enterprise marketing solutions</strong> for clients and agencies that deliver deep insights and accurate audience targeting to drive sales and improve ROI.  These solutions are made possible by the wave of innovation in digital, data and analytics.</p>
             </li>
             
@@ -58,7 +58,7 @@
                 <p>We’re not recruiting right now but we are always looking for good freelancers. Drop us a line.  ### <a href="mailto:rbowater@binaryvision.com" title="Contact Binary Vision via email">rbowater@binaryvision.com</a> ###            </p>
             </li>
 
-            <li><a class="logo" href="http://seb.ly/training"><img src="img/creativejs.jpg" alt="CreativeJS Training" width="160"></a>
+            <li><a class="logo" href="http://seb.ly/training"><img src="img/creativejs.png" alt="CreativeJS Training" width="160"></a>
                 <p>In this acclaimed series of sell-out workshops, Seb Lee-Delisle will show you how easy it can be to create visual effects with JavaScript and HTML5. These engaging classes look at image blending, physics, games, 3D, advanced mouse interactions, and pixel manipulation. New for 2012 - CreativeJS for non-coders, part of Seb's campaign to help designers discover the joy of code. More info and dates at <a href="http://seb.ly/training">seb.ly/training</a>.</p></li>           
         </ul>
     </div>

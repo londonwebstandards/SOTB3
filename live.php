@@ -4,11 +4,11 @@
     <h1>Live Coverage</h1>
 </div>
 <div id="live">
-    <div class="ten columns">
+    <div class="">
 		<script type="text/javascript"> 
 			swfobject.registerObject("player", "10.2.0", "http://susu.tv/flash/expressInstall.swf");
 		</script>
-		<div id="videoContainer" class="container_12" style="z-index:10;">
+		<div id="videoContainer" class="container_12" style="clear: both; z-index:10; width: 852px; margin: 0 auto 30px auto;">
 			<div style="text-align: center; margin-bottom: 10px;">
 				<object type="application/x-shockwave-flash" data="http://inqb8r.tv/player/lws/player-lws2012.swf" width="852" height="480" id="player" name="player" class="player">
 				<param name="movie" value="/flash/susutv-player.swf?PL=1200">

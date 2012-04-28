@@ -5,7 +5,7 @@
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 <head>
 	<meta charset="utf-8">
-	<title>State of the Browser - 2012</title>
+	<title>State of the Browser 2012</title>
 	<meta name="description" content="London Web Standards, State of the Browser 2012.">
 	<meta name="author" content="organisers@londonwebstandards.org">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -18,6 +18,7 @@
 	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png" -->
 	<link rel="stylesheet" href="http://f.fontdeck.com/s/css/LM6ogP/lb7cBmA+dXw78TxjDQ+Q/londonwebstandards.org/17641.css" type="text/css" />
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 </head>
 <body>        
 	<div class="container">

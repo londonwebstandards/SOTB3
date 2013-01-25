@@ -1,7 +1,7 @@
 <?php include("inc/pageopen.php"); ?>
 <?php include("inc/navigation.php"); ?>
 <div id="brand" class="sixteen columns">
-    <h1>State of the Browser 2012</h1>
+    <h1>State of the Browser 2013</h1>
 </div>
 
 <div class="eleven columns">
@@ -32,7 +32,7 @@
             <p>Seb Lee-DeLisle, CreativeJS</p>
             <p>After a full day of Chrome, Firefox and Opera bigging themselves up, it's time to put their money where their mouth is. Yeah sure, they can all parse HTML and be all accessible and stuff. But now's the time for the most irrelevant test of all! In code written from scratch, Seb will find out which browser can render the most 3D pixels ever!</p>
         </li>
-        <li><h2><span class="time">14:05</span> Breakout session 1</h2> 
+        <li><h2><span class="time">14:05</span> Breakout session 1</h2>
             <ul>
                 <li>Martin Beeby "HTML5 Human Interaction”</li>
                 <li>Chris Heilmann “The bleeding edge of web development needs blood donors”</li>
@@ -58,7 +58,7 @@
 
 
 </div>
-<?php include("inc/sponsorsSide.php"); ?>    
+<?php include("inc/sponsorsSide.php"); ?>
 <?php include("inc/communityPartners.php"); ?>
 <?php include("inc/footer.php"); ?>
 

@@ -1,11 +1,28 @@
 <?php include("inc/pageopen.php"); ?>
 <?php include("inc/navigation.php"); ?>
     <div id="brand" class="sixteen columns">
-        <h1>Presenters</h1>
+        <h1>Call for speakers</h1>
     </div>
-    
-    <div class="eleven columns">        
-        <div id="presenters">            
+
+    <div class="eleven columns">
+
+        <p>We are in the early stages of putting together this year's conference. Although we have secured almost all of the browser representatives from last year, we are on the lookout for speakers for our breakout sessions.</p>
+
+        <p>This year, along with our main focus (the new and upcoming features for each browser), we are also trying to:</p>
+            <ul class="list">
+                <li>include minor and new browsers from all over the world</li>
+                <li>talk about personalisation of the browser (location, language, cookies, etc.)</li>
+                <li>cover browsing off the desktop (Smartphones, Tablets, TVs, Games Consoles)</li>
+                <li>Mobile UX</li>
+                <li>Mobile/Responsove Design</li>
+            </ul>
+        <p>If you represent a browser (major or minor) and would like to present a talk, or if you would like to host a breakout session, <a href="mailto:organisers@londonwebstandards.org" title="Get in touch if you would like to present at SOTB3">get in touch</a>.</p>
+
+        <script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/6823705.js"></script>
+<noscript><a href="http://polldaddy.com/poll/6823705/">Who would you like to see speaking at State of the Browser 3</a></noscript>
+
+
+        <?php /*<div id="presenters">
             <ul>
                 <li>
                     <p><img src="img/speakers/michael_mahemoff_150.png" alt="@mahemoff"> <span class="name fn">Michael Mahemoff (<a href="http://twitter.com/mahemoff">@mahemoff</a>)</span>  Michael Mahemoff, Ph.D., is a full-stack HTML5 developer and writer. His most recent full-time role was at Google, where he helped developers bring out their best on the HTML5 and Chrome platforms. He has performed development, user experience, and developer relations roles in the past, and authored "Ajax Design Patterns" for O'Reilly to capture industry best practices as Ajax was taking off. He's currently baking web apps independently with Ruby on Rails, NodeJS, and, of course, HTML5. He's <a href="http://twitter.com/mahemoff">@mahemoff</a> on Twitter and his homepage is <a href="http://mahemoff.com">http://mahemoff.com</a>.</p>
@@ -40,8 +57,9 @@
                     <p><img src="http://a0.twimg.com/profile_images/1539099529/me4.jpg" alt="@richtibbet"> <span class="name fn">Rich Tibbett (<a href="http://twitter.com/richtibbett/">@richtibbett</a>)</span> Rich Tibbett is a Core Platform Architect at Opera Software ASA who is to be commonly found in the trenches of creating, improving and implementing cutting-edge Web APIs across all of Opera's products. He currently leads up Core Extension and Device API development at Opera and he also contributes and edits a number of emerging technology recommendations at the W3C.</p>
                 </li>-->
             </ul>
-        </div>            
+        </div>*/ ?>
     </div>
-    <?php include("inc/sponsorsSide.php"); ?>    
+<?php //include("inc/sponsorsSide.php"); ?>
+<?php include("inc/photosSide.php"); ?>
 <?php include("inc/communityPartners.php"); ?>
 <?php include("inc/footer.php"); ?>

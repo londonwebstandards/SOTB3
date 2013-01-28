@@ -49,76 +49,76 @@
             <div class="sotb2photos">
                 <ul>
                     <li>
-                        <a class="fancybox" href="img/sotb2/DSC_0001.jpg">
+                        <a class="fancybox" href="img/sotb2/DSC_0001.JPG">
                             <img src="img/sotb2/DSC_0001_small.jpg" alt="State of the Browser badges" />
                         </a>
                     </li>
                     <li>
-                        <a class="fancybox" href="img/sotb2/DSC_0013.jpg">
+                        <a class="fancybox" href="img/sotb2/DSC_0013.JPG">
                             <img src="img/sotb2/DSC_0013_small.jpg" alt="State of the Browser Intro" />
                         </a>
                     <li>
-                        <a class="fancybox" href="img/sotb2/DSC_0044.jpg">
+                        <a class="fancybox" href="img/sotb2/DSC_0044.JPG">
                             <img src="img/sotb2/DSC_0044_small.jpg" alt="State of the Browser break" />
                         </a>
                     </li>
                     <li>
-                        <a class="fancybox" href="img/sotb2/DSC_0019.jpg">
+                        <a class="fancybox" href="img/sotb2/DSC_0019.JPG">
                             <img src="img/sotb2/DSC_0019_small.jpg" alt="State of the Browser Paul Kinlan" />
                         </a>
                     </li>
                     <li>
-                        <a class="fancybox" href="img/sotb2/DSC_0038.jpg">
+                        <a class="fancybox" href="img/sotb2/DSC_0038.JPG">
                             <img src="img/sotb2/DSC_0038_small.jpg" alt="State of the Browser break">
                         </a>
                     </li>
                     <li>
-                        <a class="fancybox" href="img/sotb2/DSC_0026.jpg">
+                        <a class="fancybox" href="img/sotb2/DSC_0026.JPG">
                             <img src="img/sotb2/DSC_0026_small.jpg" alt="State of the Browser audience" />
                         </a>
                     </li>
                     <li>
-                        <a class="fancybox" href="img/sotb2/DSC_0045.jpg">
+                        <a class="fancybox" href="img/sotb2/DSC_0045.JPG">
                             <img src="img/sotb2/DSC_0045_small.jpg" alt="State of the Browser The Web as it should be" />
                         </a>
                     </li>
                     <li>
-                        <a class="fancybox" href="img/sotb2/DSC_0052.jpg">
+                        <a class="fancybox" href="img/sotb2/DSC_0052.JPG">
                             <img src="img/sotb2/DSC_0052_small.jpg" alt="State of the Browser tablet" />
                         </a>
                     </li>
                     <li>
-                        <a class="fancybox" href="img/sotb2/DSC_0055.jpg">
+                        <a class="fancybox" href="img/sotb2/DSC_0055.JPG">
                             <img src="img/sotb2/DSC_0055_small.jpg" alt="State of the Browser Martin Beeby" />
                         </a>
                     </li>
                     <li>
-                        <a class="fancybox" href="img/sotb2/DSC_0060.jpg">
+                        <a class="fancybox" href="img/sotb2/DSC_0060.JPG">
                             <img src="img/sotb2/DSC_0060_small.jpg" alt="State of the Browser Chris Heillman" />
                         </a>
                     </li>
                     <li>
-                        <a class="fancybox" href="img/sotb2/DSC_0070.jpg">
+                        <a class="fancybox" href="img/sotb2/DSC_0070.JPG">
                             <img src="img/sotb2/DSC_0070_small.jpg" alt="State of the Browser Seb Lee-Delisle" />
                         </a>
                     </li>
                     <li>
-                        <a class="fancybox" href="img/sotb2/DSC_0058.jpg">
+                        <a class="fancybox" href="img/sotb2/DSC_0058.JPG">
                             <img src="img/sotb2/DSC_0058_small.jpg" alt="State of the Browser Just Some of the New HTML5 Features" />
                         </a>
                     </li>
                     <li>
-                        <a class="fancybox" href="img/sotb2/DSC_0077.jpg">
+                        <a class="fancybox" href="img/sotb2/DSC_0077.JPG">
                         <img src="img/sotb2/DSC_0077_small.jpg" alt="State of the Browser Michael Mahemoff" />
                     </a>
                     </li>
                     <li>
-                        <a class="fancybox" href="img/sotb2/DSC_0080.jpg">
+                        <a class="fancybox" href="img/sotb2/DSC_0080.JPG">
                             <img src="img/sotb2/DSC_0080_small.jpg" alt="State of the Browser Closing Panel" />
                         </a>
                     </li>
                     <li>
-                        <a class="fancybox" href="img/sotb2/DSC_0002.jpg">
+                        <a class="fancybox" href="img/sotb2/DSC_0002.JPG">
                             <img src="img/sotb2/DSC_0002_small.jpg" alt="State of the Browser badges">
                         </a>
                     </li>

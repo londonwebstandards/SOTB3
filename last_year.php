@@ -127,7 +127,7 @@
         </div>
 
     </div>
+<?php include("inc/sponsorsSide.php"); ?>
 <?php include("inc/photosSide.php"); ?>
-<?php //include("inc/sponsorsSide.php"); ?>
 <?php include("inc/communityPartners.php"); ?>
 <?php include("inc/footer.php"); ?>

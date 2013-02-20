@@ -7,7 +7,7 @@
     <div class="eleven columns">
         <p>Help us make State of the Browser happen by sponsoring us</p>
 
-        <p><a href="" title="Download our Sponsor Pack">Download our Sponsor Pack</a></p>
+        <p><a href="SponsorsPackSOTB3.pdf" title="Download our Sponsor Pack">Download our Sponsor Pack</a></p>
 
         <h2>About London Web Standards</h2>
         <p><a href="http://londonwebstandards.org " target="_blank" title="London Web Standards' Site">londonwebstandards.org</a>

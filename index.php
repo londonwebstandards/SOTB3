@@ -43,7 +43,8 @@
 
                 <script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/6823705.js"></script>
 <noscript><a href="http://polldaddy.com/poll/6823705/">Who would you like to see speaking at State of the Browser 3</a></noscript>
-        </div>*/ ?>
+        */ ?>
+        </div>
         <h2>Speakers include:</h2>
         <ul>
             <li>Microsoft, Martin Beeby (<a href="http://www.twitter.com/thebeebs" target="_blank">@thebeebs</a>)</li>

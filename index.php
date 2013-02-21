@@ -25,7 +25,7 @@
                     </div>
             </form>
             </div>
-            <!--End mc_embed_signup-->*/ ?>
+            <!--End mc_embed_signup-->
 
             <h2>Call for speakers</h2>
 
@@ -43,7 +43,23 @@
 
                 <script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/6823705.js"></script>
 <noscript><a href="http://polldaddy.com/poll/6823705/">Who would you like to see speaking at State of the Browser 3</a></noscript>
-        </div>
+        </div>*/ ?>
+        <h2>Speakers include:</h2>
+        <ul>
+            <li>Microsoft, Martin Beeby (<a href="http://www.twitter.com/thebeebs" target="_blank">@thebeebs</a>)</li>
+            <li>Chris Heilmann (<a href="http://www.twitter.com/codepo8" target="_blank">@codepo8</a>)</li>
+            <li>Google, Paul Kinlan (<a href="http://www.twitter.com/Paul_Kinlan" target="_blank">@Paul_Kinlan</a>) and Jake Archibald (<a href="http://www.twitter.com/jaffathecake" target="_blank">@jaffathecake</a>)</li>
+            <li>Opera, Andreas Bovens (<a href="http://www.twitter.com/andreasbovens" target="_blank">@andreasbovens</a>)</li>
+            <li>WebKit, Alp Toker (<a href="http://www.twitter.com/Atoker" target="_blank">@Atoker</a>)</li>
+        </ul>
+
+        <h3>There will also be breakout sessions held by:</h3>
+        <ul>
+            <li>Laura Kalbag (<a href="http://www.twitter.com/laurakalbag" target="_blank">@laurakalbag</a>)</li>
+            <li>Pete Gasston (<a href="http://www.twitter.com/stopsatgreen" target="_blank">@stopsatgreen</a>)</li>
+            <li>Priya Prakash (<a href="http://www.twitter.com/priyascape" target="_blank">@priyascape</a>)</li>
+        </ul>
+
         <div id="lastyearpicsvideo">
             <h2> Last year in pictures and videos</h2>
             <iframe src="http://player.vimeo.com/video/41431060" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

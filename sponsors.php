@@ -43,7 +43,7 @@
             <li>
                 <a class="logo" href="http://www.binaryvision.com/" target="_blank">
                     <img src="img/BV-logo-with-transparent.png" alt="Binary Vision"  width="160"></a>
-                <? /*<p>Founded in 2010, Potato specialises in the creation of complex web apps, working with companies like Google, BBH, Mother and PayPal from London, Bristol, Amsterdam, San Francisco and Sydney.</p> */?>
+                <p>Founded as a games company back in 1985, Binary Vision is now a digital agency serving clients like the Royal Air Force and the NHS. We now almost entirely work on FOSS platforms (e.g. Mura, Drupal and WordPress). We aren’t  currently recruiting but we are always on the lookout for good freelancers – <a href="http://www.binaryvision.com/contactus/index.cfm" target="_blank">get in touch</a>!</p>
             </li>
         </ul>
         <p>&nbsp;</p>

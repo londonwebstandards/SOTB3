@@ -21,13 +21,17 @@
         <h3>Major sponsor</h3>
         <ul>
             <li>
-                <a class="logo" href="http://squiz.co.uk" target="_blank">
-                    <img src="img/squiz.png" alt="Squiz"  width="160"></a>
-                <?php /*<p>Squiz is a Supported Open Source Web Services company and our clients are our number one priority. Our team's focus is to create successful web solutions which enable our clients to excel online and meet their business objectives.</p>*/ ?>
+                <a class="logo" href="http://www.squiz.net" target="_blank">
+                    <img src="img/Squiz-notag-jpeg.jpg" alt="Squiz"  width="160"></a>
+                <p> Squiz creates effective and usable web solutions, enabling organisations to manage and optimise online engagement with their users. Squiz offers a powerful web experience management platform which incorporates CMS, search, analytics and integration tools. Squiz's professional services team provide analysis, consulting, design, implementation, training, hosting and 24/7 global support services.</p>
+
+                <p>We pride ourselves on being able to offer innovation tools to our clients and the wider web community. One such tool is HTML Code Sniffer which is a free tool to measure and improve accessibility on any webpage. Simply input a web page address and see the results for yourself. Learn more at <a href="http://squizlabs.github.com/HTML_CodeSniffer/" target="_blank">squizlabs.github.com/HTML_CodeSniffer/</a></p>
+
+                <p>As Squiz continues to grow in the UK we're excited to be hiring for a range of roles. Learn more by visiting our careers page at <a href="http://www.squiz.net/uk/careers" target="_blank">www.squiz.net/uk/careers</a></p>
             </li>
         </ul>
         <p>&nbsp;</p>
-        <h3>Medium sponsor</h3>
+        <h3>Medium sponsors</h3>
         <ul>
             <li>
                 <a class="logo" href="http://p.ota.to/work/" target="_blank">
@@ -36,12 +40,17 @@
                 <p>Potato plays home to a multi-disciplined team of webdev experts, tackling projects that range from complex marketing initiatives like <a href="http://p.ota.to/work/google-engage/" target="_blank">Google Engage</a> and massive-scale <a href="http://p.ota.to/work/youtube/" target="_blank">YouTube channels</a>, to fun, interesting diversions like our <a href="http://p.ota.to/work/getfavicon/" target="_blank">getFavicon tool</a> (5.6 billion icons served).</p>
                 <p>We love working in the cloud, and as such develop almost solely using services like Google App Engine. As Potato continues to expand we’re also on the hunt for developers to <a href="http://p.ota.to/jobs/" target="_blank">join our team</a>.</p>
             </li>
+            <li>
+                <a class="logo" href="http://www.binaryvision.com/" target="_blank">
+                    <img src="img/BV-logo-with-transparent.png" alt="Binary Vision"  width="160"></a>
+                <? /*<p>Founded in 2010, Potato specialises in the creation of complex web apps, working with companies like Google, BBH, Mother and PayPal from London, Bristol, Amsterdam, San Francisco and Sydney.</p> */?>
+            </li>
         </ul>
         <p>&nbsp;</p>
         <h3>Start-up sponsor</h3>
         <ul>
             <li>
-                <a class="logo" href="www.chnl.it" target="_blank">
+                <a class="logo" href="http://www.chnl.it" target="_blank">
                     <img src="img/chnl_gloss.png" alt="CHNL" width="160"></a>
                 <?php /*<p>E-NOISE is a small company based in East London (UK) specialising in hosting & building WordPress and Joomla! Websites. We pride ourselves in providing friendly human support and making hosting your website simple. We also develop custom web applications, plugins and themes.</p>*/ ?>
             </li>

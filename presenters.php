@@ -64,7 +64,7 @@
                     <p><img src="http://farm9.staticflickr.com/8464/8114191496_0f4c9a6cb7.jpg" alt="Jake Archibald"></p>
                     <p>Jake works in Google Chrome's developer relations team, working on specs, testing implementations, and ensuring developers have tools to make their jobs less painful. He's a big fan of time-to-render optimisations, progressive enhancement, and all of that responsive stuff.</p>
 
-                    <p>Prior to Google, Jake worked at Lanyrd on their mobile web site (http://lanyrd.com/mobile/), and for the BBC working on JavaScript libraries and standards.</p>
+                    <p>Prior to Google, Jake worked at Lanyrd on their <a href="http://lanyrd.com/mobile/" target="_blank">mobile web site</a>, and for the BBC working on JavaScript libraries and standards.</p>
 
                     <p>Outside of the web, Jake likes F1 and nice beer.</p>
                 </li>

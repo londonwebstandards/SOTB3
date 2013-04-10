@@ -11,10 +11,10 @@
             <h2><span class="time">8:45</span> Registration [Foyer]</h2>
         </li>
         <li>
-            <h2><span class="time">9:30</span> Welcome talk[Main Room]</h2>
+            <h2><span class="time">9:30</span> Welcome talk [Main Room]</h2>
         </li>
 
-        <li><h2><span class="time">10:00</span> "WebKit Monoculture Isn't Breaking the Web: You Are"[Main Room]</h2>
+        <li><h2><span class="time">10:00</span> WebKit Monoculture Isn't Breaking the Web: You Are[Main Room]</h2>
             <p>Alp Toker</p>
             <p>Is browser monoculture really good for the future of the web? Will the uneasy alliance between stakeholders reach fever pitch in 2013? What’s coming after HTML5, and is the dream of an open web once again under threat?</p>
             <p>The WebKit Open Source project is a powerhouse of innovation on web standards and browser technology. Driven by an unlikely collaboration between tech giant rivals and a regiment of rockstar coders, WebKit is becoming the de-facto browser engine for desktop web browsers, mobiles and connected devices.</p>

@@ -46,34 +46,34 @@
 
         <li><h2><span class="time">14:10</span> Breakout session 1</h2>
             <ul>
-                <li>Martin Beeby "HTML5 Human Interaction”</li>
-                <li>Chris Heilmann “The bleeding edge of web development needs blood donors”</li>
-                <li>Jason Grant “Designing responsively”</li>
-                <li>Pete Gasston “Mobile UI Interaction Effects with CSS3” (@stopsatgreen)</li>
-                <li>Bruce Lawson - “Responsive Web Design: the specs behind the sex”</li>
+                <li>Pete Gasston (<a href="http://www.twitter.com/stopsatgreen" target="_blank">@stopsatgreen</a>) - “Web Components: Getting Started"</li>
+                <li>Jake Archibald (<a href="http://www.twitter.com/stopsatgreen" target="_blank">@stopsatgreen</a>) - "HTML5 Human Interaction”</li>
+                <li>Chris Heilmann (<a href="http://www.twitter.com/stopsatgreen" target="_blank">@stopsatgreen</a>) - “The bleeding edge of web development needs blood donors”</li>
+                <li>Jason Grant (<a href="http://www.twitter.com/stopsatgreen" target="_blank">@stopsatgreen</a>) - “Designing responsively”</li>
+                <li>Bruce Lawson (<a href="http://www.twitter.com/stopsatgreen" target="_blank">@stopsatgreen</a>) - “Responsive Web Design: the specs behind the sex”</li>
             </ul>
         </li>
 
-        <li><span class="time">14:50</span> Break </li>
+        <li><span class="time">14:45</span> Break </li>
 
-        <li><h2><span class="time">15:00</span> Breakout session 2</h2>
-            <ul>
+        <li><h2><span class="time">14:55</span> Breakout session 2</h2>
+            <?php /*<ul>
                 <li>Martin Beeby "HTML5 Human Interaction”</li>
                 <li>Chris Heilmann “The bleeding edge of web development needs blood donors”</li>
                 <li>Pete Gasston “Mobile UI Interaction Effects with CSS3” (@stopsatgreen)</li>
                 <li>Seb Lee-Delisle “Creative JS - Beauty in the browser"</li>
                 <li>Jason Grant “Designing responsively”</li>
-            </ul>
+            </ul>*/?>
         </li>
 
-        <li><span class="time">15:45</span> Break </li>
+        <li><span class="time">15:30</span> Break </li>
 
-        <li><h2><span class="time">13:40</span> Battle of the Browsers</h2>
+        <li><h2><span class="time">15:45</span> Battle of the Browsers</h2>
             <p>Seb Lee-DeLisle, CreativeJS</p>
-            <p>After a full day of Chrome, Firefox and Opera bigging themselves up, it's time to put their money where their mouth is. Yeah sure, they can all parse HTML and be all accessible and stuff. But now's the time for the most irrelevant test of all! In code written from scratch, Seb will find out which browser can render the most 3D pixels ever!</p>
+            <p>Last year Seb pitted the browsers against each other by making millions of particles, in an astonishing live coding demo. This time, he'll once again be putting the browsers to the test in a new crazy (and mostly arbitrary) test. So you can find out which outperforms the others to be the king of the browsers!</p>
         </li>
 
-        <li><h2><span class="time">16:00</span> Panel Q&amp;A Discussion</h2></li>
+        <li><h2><span class="time">16:15</span> Panel Q&amp;A Discussion</h2></li>
 
         <li><span class="time">17:00</span>  Drinks at the Pilot Inn</li>
     </ul>

@@ -3,6 +3,127 @@
     <div id="brand" class="eleven columns">
         <h1>Presenters</h1>
 
+        <div id="presenters">
+            <ul>
+                <li>
+                    <h2>"WebKit Monoculture Isn't Breaking the Web: You Are"</h2>
+                    <p class="name fn">Alp Toker (<a href="http://twitter.com/atoker/" target="_blank">@atoker</a>)</p>
+                    <p><img src="img/speakers/AlpToker.jpg" alt="Alp Toker">
+                        Alp Toker is a British programmer and web browser technologist. In 1994, he developed one of the earliest browsers, and, at age 11 attained an A Level in Computer Science with his work on web rendering technology.</p>
+
+                        <p>Since 2006 Alp has become one of the first team leads on the WebKit project outside of Apple’s own Safari group. His developments on mobile browsing have been incorporated into iPhone, and the porting layer has since formed the underpinning of the Android browser and Google Chrome.</p>
+
+                        <p>Alp believes in the browser as an agent of change, having worked on projects like WebKit for OLPC to give Internet access to children in developing countries. His company Nuanti is instrumental in HTML5 video, CSS3, ACID3 and web accessibility that lets vision-impaired users “see” the web.</p>
+
+                        <p>Alp Toker continues to realise his dream at Nuanti where he’s heading up Boot2WebKit, a new OS for connected TV, game consoles and smart devices built on open web standards.</p>
+
+
+                </li>
+                <li>
+                    <h2>"Internet Explorer - Touch the web"</h2>
+                    <p class="name fn">Martin Beeby (<a href="http://twitter.com/thebeebs/" target="_blank">@thebeebs</a>)</p>
+                    <p><img src="img/speakers/martin-beeby.png" alt="Martin Beeby" />
+                       Martin Beeby works for Microsoft where he talks to developers about HTML5, Windows 8 and the web. Martin has been developing since he was 16 and over the past 12 years has worked on projects with many Major brands including National Rail Enquiries, The Financial Times and Tesco.</p>
+
+                    <p>Martin has written articles for, and been featured in .NET Magazine, ZDNet, the Microsoft Developer Network, Ubelly.com</p>
+                </li>
+
+                <li>
+                    <h2>"State of the Mobile Web"</h2>
+                    <p class="name fn">Paul Kinlan (<a href="http://twitter.com/paul_kinlan/" target="_blank">@paul_kinlan</a>)</p>
+                    <p><img src="https://twimg0-a.akamaihd.net/profile_images/2736788281/13811f0063041a72d7ea6ede7b89fedd_bigger.png" alt="Paul Kinlan"></p>
+                    <p>Developer Advocate @ Google on Chrome. Mobile BadAss. Mr Web Intents. Developer of many techie things including Twollo, Twe2, Topicala, Ahoyo and FriendDeck.</p>
+                </li>
+
+
+                <li>
+                    <h2>"Business as usual: bringing the world wide web to the whole wide world"</h2>
+                    <p class="name fn">Andreas Bovens (<a href="http://twitter.com/andreasbovens/" target="_blank">@andreasbovens</a>)</p>
+                    <p><img src="https://lh3.googleusercontent.com/-dxb9DWennV0/UQWCzE9oSRI/AAAAAAAC1ZE/2JXjXu5GEgI/s535/73664_10151414461972953_1955165376_n.jpg" alt="Andreas Bovens"></p>
+					<p>Andreas has been with Opera since 2007: first as QA engineer and web evangelist in Tokyo, then as group leader Developer Relations working from Opera's Oslo HQ. Since February, he's Product Manager for Opera Extensions, and a member of Opera's Web Standards group.</p>
+                </li>
+
+                <li>
+                    <h2>"Making your HTML5 efforts worth-while"</h2>
+                    <p class="name fn">Christian Heilmann (<a href="http://twitter.com/codepo8/" target="_blank">@codepo8</a>)</p>
+                    <p><img src="http://farm9.staticflickr.com/8213/8301041316_245270987c_m.jpg" alt="Chris Heilmann"></p>
+					<p>Chris Heilmann has dedicated a lot of his time making the web better. Originally coming from a radio journalism background, he built his first web site from scratch around 1997 and spent the following years working on lots of large, international web sites. He then spent a few years in Yahoo building products and explaining and training people and is now at Mozilla. Chris wrote and contributed to four books on web development and wrote many articles and hundreds of blog posts for Ajaxian, Smashing Magazine, Yahoo, Mozilla, ScriptJunkie and many more.</p>
+                </li>
+
+
+                <li>
+                    <h2>"Web Components: Getting Started"</h2>
+                    <p class="name fn">Peter Gasston (<a href="http://twitter.com/stopsatgreen/" target="_blank">@stopsatgreen</a>)</p>
+                    <p><img src="img/speakers/pete-gasston.jpg" alt="Pete Gasston"></p>
+                    <p>Peter has worked as a professional web developer for over twelve years, in the varied environments of agencies, start-ups and corporates, and is currently Creative Technologist at <a href="http://rehabstudio.com" target="_blank">rehabstudio</a>. He enjoys writing for sites such as Smashing Magazine and A List Apart, for .net Magazine, and on his own blog, <a href="http://broken-links.com" target="_blank">Broken Links</a>, and is the author of “The Book of CSS3” and “The Modern Web”.</p>
+                </li>
+
+                <li>
+                    <h2>"Rendering without lumpy bits."</h2>
+                    <p class="name fn">Jake Archibald (<a target="_blank" href="http://twitter.com/jaffathecake/">@jaffathecake</a>)</p>
+                    <p><img src="http://farm9.staticflickr.com/8464/8114191496_0f4c9a6cb7.jpg" alt="Jake Archibald"></p>
+                    <p>Jake works in Google Chrome's developer relations team, working on specs, testing implementations, and ensuring developers have tools to make their jobs less painful. He's a big fan of time-to-render optimisations, progressive enhancement, and all of that responsive stuff.</p>
+
+                    <p>Prior to Google, Jake worked at Lanyrd on their mobile web site (http://lanyrd.com/mobile/), and for the BBC working on JavaScript libraries and standards.</p>
+
+                    <p>Outside of the web, Jake likes F1 and nice beer.</p>
+                </li>
+
+                <li>
+                    <h2>"Design theory for the web"</h2>
+                    <p class="name fn">Laura Kalbag (<a target="_blank" href="http://twitter.com/laurakalbag/">@laurakalbag</a>)</p>
+                    <p><img src="img/speakers/Laura-Kalbag.jpg" alt="Laura Kalbag"></p>
+                    <p>Laura Kalbag is a designer easily excited by web design and development. Among her list of ever-changing pet subjects are mobile web, semantic web, web fonts and design theory, but she's really fascinated by anything in the areas of web, mobile and design.</p>
+                </li>
+
+
+                <li>
+                    <h2>"<strong>Can you change the world through the browser? </strong> The truth about building a social impact MVP"</h2>
+                    <p class="name fn">Priya Prakash (<a target="_blank" href="http://twitter.com/priyascape/">@priyascape</a>)</p>
+                    <p><img src="http://uplondon.net/wp-content/uploads/2013/04/Priya-640.png" alt="Priya Prakash"></p>
+                    <p><strong>Priya Prakash – Founder, D4SC [Design for Social Change]</strong></p>
+                    <p>Priya is founder of D4SC, a win-win social impact business for communities, local business and global brands. D4SC marries realtime citizen data with grassroots action through Changify its mobile crowdintelligence platform for creating better neighbourhoods.</p>
+
+                    <p>She has 12 years hands-on strategic digital product design and leadership experience responsible in creating market leading products with unique IP for household brands e.g. BBC iPlayer – No.1 brand in UK and Nokia Asha Smart Phones commanding 35% market share in Asia. Her designs have boosted share value by 18%, created valuable online properties and paved way for successful start up exits worth over millions. She is an invited speaker at SXSW, O’Reilly ETech, MEX, TEDx, Apple Computers Inc , 2013 D&AD judge and tutor at UCL’s Mobile Academy.</p>
+
+                    <p>Priya is a RSA fellow with a MA in Interaction Design from Royal College of Art and holds patents for iPlayer & Nokia Asha phones.</p>
+                </li>
+
+
+                <li>
+                    <h2>"Architectural Aspects within HTML5 [Semantic]"</h2>
+                    <p class="name fn">Michael R Lorek (<a target="_blank" href="http://twitter.com/m_lorek/">@m_lorek</a>)</p>
+                    <p><img src="img/speakers/Michael-R-Lorek.jpg" alt="Michael R Lorek"></p>
+                    <p>With a 30 year background in engineering, design and IT, Michael R. Lorek became passionate over the last decade for great craftsmanship in digital design. The appearance of the internet enabled him taking paper based technical documentation into a digital world of structured data and online documents. Beside lecturing information technologies in further education, Michael worked mainly over the last 14 years conceptual as an independent consultant and online designer for various clients by managing their projects throughout the development stages. In spring 2012 Michael incorporated Online Design Ltd, an agency developing online strategies and user experience for SMEs.</p>
+                </li>
+
+                <li>
+                    <h2>"The trends and next steps of RWD"</h2>
+                    <p class="name fn">Ben MacGowan (<a target="_blank" href="http://twitter.com/benmacgowan/">@benmacgowan</a>)</p>
+                    <p><img src="img/speakers/ben-macgowan.jpg" alt="Ben MacGowan"></p>
+                    <p>Ben MacGowan is the Lead UI Engineer for Creative Jar, a Reading-based digital agency. Not only does Ben strive to bring user interfaces to life, but he also lives, breathes, eats and evangelises cutting edge front-end technologies. Starting off his career whilst still at secondary school and now with many years experience, Ben has done everything from large multi-lingual email campaigns to highly interactive, responsive user interfaces and is responsible for the standards and front-end direction of his agency. Whilst some people's addiction is to smoke or drink, Ben's is to tweet - sometimes to the annoyance of his colleagues.</p>
+                </li>
+
+
+                <li>
+                    <h2>"Battle of the Browsers"</h2>
+                    <p class="name fn">Seb Lee-Delisle (<a href="http://twitter.com/seb_ly/" target="_blank">@seb_ly</a>)</p>
+
+                    <p><img src="http://a0.twimg.com/profile_images/1232663381/5388246284_df5b90b720_b-1.jpeg" alt="Seb Lee-Delisle">
+                    <p>Seb Lee-Delisle is an award winning digital artist and speaker who likes to make interesting things that engage and inspire people.</p>
+
+                    <p>His work has pushed the boundaries of what is possible in digital, and he won a BAFTA for a BBC project with Plug-in Media, the agency he founded in 2003. In 2012 he was awarded an Arts Council grant for the large scale installation PixelPyros (the official launch of the Brighton Digital Festival), closely followed by a commission for the Dublin Science Gallery GAME exhibition, Lunar Trails, that features a full size arcade cabinet and a 3m wide drawing machine.</p>
+
+                    <p>A sought-after speaker, his recent Creative JavaScript / HTML5 workshop series sold out within hours. He co-hosts the Creative Coding Podcast, his blog can be found at seb.ly and he tweets <a href="http://www.twitter.com/seb_ly" target="_blank">@seb_ly</a>.</p>
+
+                    <p>To contact seb use <a href="mailto:seb@leedelisle.com" target="_blank">seb@leedelisle.com</a> or <a href="mailto:twitter@seb_ly" target="_blank">twitter@seb_ly</a>. </p>
+                </li>
+
+
+            </ul>
+
+        </div>
+
     <?php /*<div id="brand" class="sixteen columns">
         <h1>Call for speakers</h1>
     </div>
@@ -22,9 +143,9 @@
         <p>If you represent a browser (major or minor) and would like to present a talk, or if you would like to host a breakout session, <a href="mailto:organisers@londonwebstandards.org" title="Get in touch if you would like to present at SOTB3">get in touch</a>.</p>
 
         <script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/6823705.js"></script>
-<noscript><a href="http://polldaddy.com/poll/6823705/">Who would you like to see speaking at State of the Browser 3</a></noscript>*/ ?>
+<noscript><a href="http://polldaddy.com/poll/6823705/">Who would you like to see speaking at State of the Browser 3</a></noscript>
 
-            
+
         <h2>Speakers include:</h2>
         <ul>
             <li>Microsoft, Martin Beeby (<a href="http://www.twitter.com/thebeebs" target="_blank">@thebeebs</a>)</li>
@@ -40,49 +161,7 @@
             <li>Pete Gasston (<a href="http://www.twitter.com/stopsatgreen" target="_blank">@stopsatgreen</a>)</li>
             <li>Priya Prakash (<a href="http://www.twitter.com/priyascape" target="_blank">@priyascape</a>)</li>
         </ul>
-
-
-            <?php /*<div id="presenters">
-            <ul>
-                <li>
-                    <p><img src="http://a0.twimg.com/profile_images/1648506030/denmark.png" alt="@thebeebs"> 
-                        <span class="name fn">Martin Beeby (<a href="http://twitter.com/thebeebs/">@thebeebs</a>)</span> Martin works for Microsoft where he evangelises HTML5 and the web. He’s been a developer since the late 90s and loves figuring out problems and experimenting with code.</p>
-                </li>
-                <li>
-                    <p><img src="http://a0.twimg.com/profile_images/1666904408/codepo8.png" alt="@codepo8"> <span class="name fn">Christian Heilmann (<a href="http://twitter.com/codepo8/">@codepo8</a>)</span> Chris Heilmann has dedicated a lot of his time making the web better. Originally coming from a radio journalism background, he built his first web site from scratch around 1997 and spent the following years working on lots of large, international web sites.</p>
-					<p>He then spent a few years in Yahoo building products and explaining and training people and is now at Mozilla as the "Principal Evangelist".</p>
-
-					<p>Chris wrote and contributed to six books on web development and wrote many articles and hundreds of blog posts for Ajaxian, Smashingmagazine, Yahoo, Mozilla, ScriptJunkie and many more.</p>
-                </li>
-                <li>
-                    <p><img src="http://a0.twimg.com/profile_images/1280643875/me2.jpg" alt="@paul_kinlan"> <span class="name fn">Paul Kinlan (<a href="http://twitter.com/paul_kinlan/">@paul_kinlan</a>)</span> Developer Advocate at Google on Chrome. Mr Web Intents. Developer of many techie things including Twollo, Twe2, Topicala, Ahoyo and FriendDeck.</p>
-                </li>
-                <li>
-                    <p><img src="img/speakers/peter_gasston_150.jpg" alt="@stopsatgreen"> <span class="name fn">Peter Gasston (<a href="http://twitter.com/stopsatgreen/">@stopsatgreen</a>)</span> Peter is a web developer, writer, public speaker, and author of <a href="http://thebookofcss3.com/">The Book of CSS3</a>. He blogs at <a href="http://broken-links.com/">Broken Links</a> and tweets as <a href="http://twitter.com/stopsatgreen">@stopsatgreen</a>. He likes history, gorillas, and Arsenal FC.</p>
-                </li>
-                <li>
-                    <p><img src="http://a0.twimg.com/profile_images/1232663381/5388246284_df5b90b720_b-1.jpeg" alt="@seb_ly"> <span class="name fn">Seb Lee-Delisle (<a href="http://twitter.com/seb_ly/">@seb_ly</a>)</span> Seb Lee-Delisle is a creative coder, speaker and teacher, working across platforms including JavaScript, Processing and openFrameworks. He works to bring people together with large scale installations like PixelPhones, interactive firework displays or glow-stick voting systems.</p>
-<p>His work has pushed the boundaries of what is possible both on and off the web, and won two BAFTAs with Plug-in Media, the agency he co-founded in 2004.</p>
-<p>A sought-after speaker, his recent Creative JavaScript / HTML5 workshop series sold out within hours. He co-hosts the Creative Coding Podcast, his blog can be found at <a href="http://seb.ly">seb.ly</a> and he tweets <a href="http://twitter.com/seb_ly/">@seb_ly</a>.</p>
-                </li>
-
-
-
-                <li>
-                    <p><img src="img/bruce-lawson.jpg" alt="@andreasbovens Andreas Bovens"> <span class="name fn">Andreas Bovens (<a target="_blank" href="http://twitter.com/brucel/">@brucel</a>)</span> Bruce evangelises open web standards for Opera. He co-wrote <a target="_blank" href="http://introducinghtml5.com/">Introducing HTML5</a> with Remy Sharp, and his new coffee-table book, "Mankini Magic: Gussets of Glory" is banned in 8 continents. Follow him at <a href="http://twitter.com">@brucel</a>, or leave insulting comments at <a href="http://brucelawson.co.uk">www.brucelawson.co.uk</a>.</p>
-                </li>
-                <li>
-                    <p><img src="http://a0.twimg.com/profile_images/150326469/n835305082_6420882_6480795.jpg" alt="@flexewebs"> <span class="name fn">Jason Grant (<a href="http://twitter.com/flexewebs/">@flexewebs</a>)</span> Jason has worked on UX design for some of the largest web programmes in the world: Bupa, Directgov, Lloyds Banking Group, EON Energy Fit, Legal &amp; General, etc. He made his way initially through back and front end development and is now exploring the depths of Experience Architecture field. He has special interest in game design, service design and product design. He can be regularly seen working throughout the night at hack days around London.</p>
-                </li>
-                <li>
-                    <p><img src="img/speakers/michael_mahemoff_150.png" alt="@mahemoff"> <span class="name fn">Michael Mahemoff (<a href="http://twitter.com/mahemoff">@mahemoff</a>)</span>  Michael Mahemoff, Ph.D., is a full-stack HTML5 developer and writer. His most recent full-time role was at Google, where he helped developers bring out their best on the HTML5 and Chrome platforms. He has performed development, user experience, and developer relations roles in the past, and authored "Ajax Design Patterns" for O'Reilly to capture industry best practices as Ajax was taking off. He's currently baking web apps independently with Ruby on Rails, NodeJS, and, of course, HTML5. He's <a href="http://twitter.com/mahemoff">@mahemoff</a> on Twitter and his homepage is <a href="http://mahemoff.com">http://mahemoff.com</a>.</p>
-                </li>
-                <!--<li>
-                    <p><img src="http://a0.twimg.com/profile_images/1539099529/me4.jpg" alt="@richtibbet"> <span class="name fn">Rich Tibbett (<a href="http://twitter.com/richtibbett/">@richtibbett</a>)</span> Rich Tibbett is a Core Platform Architect at Opera Software ASA who is to be commonly found in the trenches of creating, improving and implementing cutting-edge Web APIs across all of Opera's products. He currently leads up Core Extension and Device API development at Opera and he also contributes and edits a number of emerging technology recommendations at the W3C.</p>
-                </li>-->
-            </ul>
-
-        </div>*/?>
+    */ ?>
     </div>
 <?php include("inc/sponsorsSide.php"); ?>
 <?php include("inc/photosSide.php"); ?>

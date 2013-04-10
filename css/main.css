@@ -21,8 +21,11 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 
 #presenters li{
     clear:left;
-    margin-bottom:1em;
-    overflow:hidden
+    margin-bottom:3em;
+    overflow:hidden;
+}
+#presenters li h2{
+    font-size:2em;
 }
 #presenters li p{
     padding-left:110px;
@@ -32,7 +35,12 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     float:left;
     margin-left:-110px
 }
-#presenters li span.name{font-weight:bold}#presenters.home li{width:100px;height:120px;overflow:hidden;float:left;margin-right:1em;margin-bottom:1em;position:relative;clear:none;padding:0}#presenters.home li img{position:absolute;clip:rect(0 100px 120px 0);margin:auto}#presenters.home li span.name{background:0;background-color:rgba(255,255,255,0.7);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#70ffffff,endColorstr=#70ffffff);-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#70ffffff,endColorstr=#70ffffff);zoom:1;color:black;font-size:.8em;font-weight:bold;position:absolute;left:0;bottom:0;width:100%}#schedule{background:0;background-color:rgba(255,255,255,0.2);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#20ffffff,endColorstr=#20ffffff);-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#20ffffff,endColorstr=#20ffffff);zoom:1}#schedule li{padding-left:10px}#schedule li:nth-child(2n+1){background:0;background-color:rgba(255,255,255,0.9);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#90ffffff,endColorstr=#90ffffff);-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#90ffffff,endColorstr=#90ffffff);zoom:1}#schedule h2{font-size:1em;margin-bottom:0}#schedule span.time{font-weight:normal;width:4em;display:inline-block}#schedule p:first-of-type{margin-top:-0.5em;line-height:inherit;margin-left:4.3em}#map{height:300px}#videoContainer{text-align:middle}
+#presenters li .name{
+    font-weight:bold;
+    padding-left:0;
+    font-size:1.4em;
+}
+#presenters.home li{width:100px;height:120px;overflow:hidden;float:left;margin-right:1em;margin-bottom:1em;position:relative;clear:none;padding:0}#presenters.home li img{position:absolute;clip:rect(0 100px 120px 0);margin:auto}#presenters.home li span.name{background:0;background-color:rgba(255,255,255,0.7);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#70ffffff,endColorstr=#70ffffff);-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#70ffffff,endColorstr=#70ffffff);zoom:1;color:black;font-size:.8em;font-weight:bold;position:absolute;left:0;bottom:0;width:100%}#schedule{background:0;background-color:rgba(255,255,255,0.2);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#20ffffff,endColorstr=#20ffffff);-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#20ffffff,endColorstr=#20ffffff);zoom:1}#schedule li{padding-left:10px}#schedule li:nth-child(2n+1){background:0;background-color:rgba(255,255,255,0.9);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#90ffffff,endColorstr=#90ffffff);-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#90ffffff,endColorstr=#90ffffff);zoom:1}#schedule h2{font-size:1em;margin-bottom:0}#schedule span.time{font-weight:normal;width:4em;display:inline-block}#schedule p:first-of-type{margin-top:-0.5em;line-height:inherit;margin-left:4.3em}#map{height:300px}#videoContainer{text-align:middle}
 
 
 .list li{

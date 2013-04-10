@@ -6,6 +6,6 @@
         <li><a href="sponsors.php">Sponsors</a></li>
         <li><a href="project.php">Show off your JS</a></li>
         <li><a href="tickets.php">Buy tickets</a></li>
-        <li><a href="last_year.php">Last year</a></li>
+        <?php /*<li><a href="last_year.php">Last year</a></li>*/ ?>
     </ul>
 </nav>

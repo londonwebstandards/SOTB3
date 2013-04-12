@@ -21,13 +21,13 @@
             <p>In this talk, Alp Toker will lay bare the state of WebKit today and explain why we all need work together now to build a better future for the open web.</p>
         </li>
 
-        <li>
-            <h2><span class="time">10:35</span> Break [Foyer]</h2>
-        </li>
-
-        <li><h2><span class="time">10:50</span> Internet Explorer - Touch the web [Main Room]</h2>
+        <li><h2><span class="time">10:35</span> Internet Explorer - Touch the web [Main Room]</h2>
             <p>Martin Beeby, Microsoft</p>
             <p>Internet Explorer 10 is now available on Windows 7 and Windows 8, in this hour long session Martin will take a look at IE10 and explain what’s new and what's changed with Microsoft’s latest browser. From using Responsive Web design to support all of the orientations of Windows 8 to Multi Touch, Martin will explain everything he’s learnt in the first 4 months of release.</p>
+        </li>
+
+        <li>
+            <h2><span class="time">10:50</span> Break [Foyer]</h2>
         </li>
 
         <li><h2><span class="time">11:25</span> State of the Mobile Web [Main Room]</h2>
@@ -50,7 +50,7 @@
         </li>
 
 
-        <li><h2><span class="time">14:10</span> Breakout session 1 [Upstairs, Rooms TBC]</h2>
+        <li><h2><span class="time">14</span> Breakout session 1 [Upstairs, Rooms TBC]</h2>
             <ul>
                 <li><h2>Pete Gasston (<a href="http://www.twitter.com/stopsatgreen" target="_blank">@stopsatgreen</a>) - “Web Components: Getting Started"</h2></li>
                 <li><h2>Jake Archibald (<a href="http://www.twitter.com/jaffathecake" target="_blank">@jaffathecake</a>) - "Rendering without lumpy bits”</h2></li>
@@ -63,11 +63,11 @@
         </li>
 
         <li>
-            <h2><span class="time">14:45</span> Break [Upstairs' Foyer]</h2>
+            <h2><span class="time">14:35</span> Break [Upstairs' Foyer]</h2>
         </li>
 
         <li>
-            <h2><span class="time">14:55</span> Breakout session 2 [Upstairs, Rooms TBC]</h2>
+            <h2><span class="time">14:45</span> Breakout session 2 [Upstairs, Rooms TBC]</h2>
             <p>Sessions from previous slot might repeat in the this second slot</p>
 
             <?php /*<ul>
@@ -80,7 +80,7 @@
         </li>
 
         <li>
-            <h2><span class="time">15:30</span> Break [Foyer]</h2>
+            <h2><span class="time">15:20</span> Break [Foyer]</h2>
         </li>
 
         <li><h2><span class="time">15:45</span> Battle of the Browsers [Main Room]</h2>

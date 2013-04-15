@@ -14,7 +14,6 @@
                 <img src="img/IE_rgb_Cyan_2_D_rgb.png" alt="Internet Explorer" width="400">
                 </a>
                 <p>With touch at its core, Internet Explorer (IE) opens up new possibilities for developers and designers. There are no visible tabs or chrome when you use it in Windows 8. When browsing, controls appear when you need them and vanish when you don’t. The full screen browsing provides a blank canvas to work with, creating a beautiful and seamless experience across apps and the web. We’re also making testing for IE a little easier with free tools at <a href="http://modern.ie" target="_blank">modern.ie</a>.</p>
-                <p>In the meantime would be great to know the details of the stand we can bring, what you’ll provide as far as AV, wireless etc, size of area we have, when we can set up etc. </p>
             </li>
         </ul>
         <p>&nbsp;</p>

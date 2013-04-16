@@ -27,7 +27,7 @@
         </li>
 
         <li>
-            <h2><span class="time">10:50</span> Break [Foyer]</h2>
+            <h2><span class="time">11:10</span> Break [Foyer]</h2>
         </li>
 
         <li><h2><span class="time">11:25</span> State of the Mobile Web [Main Room]</h2>

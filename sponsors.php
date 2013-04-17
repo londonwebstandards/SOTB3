@@ -21,7 +21,7 @@
         <ul>
             <li>
                 <a class="logo" href="http://www.squiz.net" target="_blank">
-                    <img src="img/squiz.jpg" alt="Squiz"  width="160"></a>
+                    <img src="img/squiz.png" alt="Squiz"  width="160"></a>
                 <p> Squiz creates effective and usable web solutions, enabling organisations to manage and optimise online engagement with their users. Squiz offers a powerful web experience management platform which incorporates CMS, search, analytics and integration tools. Squiz's professional services team provide analysis, consulting, design, implementation, training, hosting and 24/7 global support services.</p>
 
                 <p>We pride ourselves on being able to offer innovation tools to our clients and the wider web community. One such tool is HTML Code Sniffer which is a free tool to measure and improve accessibility on any webpage. Simply input a web page address and see the results for yourself. Learn more at <a href="http://squizlabs.github.com/HTML_CodeSniffer/" target="_blank">squizlabs.github.com/HTML_CodeSniffer/</a></p>

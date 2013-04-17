@@ -8,7 +8,7 @@
 	<title>State of the Browser 2013</title>
 	<meta name="description" content="London Web Standards, State of the Browser 2013.">
 	<meta name="author" content="organisers@londonwebstandards.org">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="css/main.css">
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>

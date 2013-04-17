@@ -50,7 +50,7 @@
         </li>
 
 
-        <li><h2><span class="time">14</span> Breakout session 1 [Upstairs, Rooms TBC]</h2>
+        <li><h2><span class="time">14:00</span> Breakout session 1 [Upstairs, Rooms TBC]</h2>
             <ul>
                 <li><h2>Pete Gasston (<a href="http://www.twitter.com/stopsatgreen" target="_blank">@stopsatgreen</a>) - “Web Components: Getting Started"</h2></li>
                 <li><h2>Jake Archibald (<a href="http://www.twitter.com/jaffathecake" target="_blank">@jaffathecake</a>) - "Rendering without lumpy bits”</h2></li>

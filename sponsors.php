@@ -11,7 +11,7 @@
         <ul>
             <li>
                 <a class="logo big" href="http://modern.ie" target="_blank">
-                <img src="img/IE_rgb_Cyan_2_D_rgb.png" alt="Internet Explorer" width="400">
+                <img src="img/internet_explorer.png" alt="Internet Explorer" width="400">
                 </a>
                 <p>With touch at its core, Internet Explorer (IE) opens up new possibilities for developers and designers. There are no visible tabs or chrome when you use it in Windows 8. When browsing, controls appear when you need them and vanish when you don’t. The full screen browsing provides a blank canvas to work with, creating a beautiful and seamless experience across apps and the web. We’re also making testing for IE a little easier with free tools at <a href="http://modern.ie" target="_blank">modern.ie</a>.</p>
             </li>
@@ -21,7 +21,7 @@
         <ul>
             <li>
                 <a class="logo" href="http://www.squiz.net" target="_blank">
-                    <img src="img/Squiz-notag-jpeg.jpg" alt="Squiz"  width="160"></a>
+                    <img src="img/squiz.jpg" alt="Squiz"  width="160"></a>
                 <p> Squiz creates effective and usable web solutions, enabling organisations to manage and optimise online engagement with their users. Squiz offers a powerful web experience management platform which incorporates CMS, search, analytics and integration tools. Squiz's professional services team provide analysis, consulting, design, implementation, training, hosting and 24/7 global support services.</p>
 
                 <p>We pride ourselves on being able to offer innovation tools to our clients and the wider web community. One such tool is HTML Code Sniffer which is a free tool to measure and improve accessibility on any webpage. Simply input a web page address and see the results for yourself. Learn more at <a href="http://squizlabs.github.com/HTML_CodeSniffer/" target="_blank">squizlabs.github.com/HTML_CodeSniffer/</a></p>

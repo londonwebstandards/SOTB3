@@ -84,7 +84,7 @@
         </li>
 
         <li><h2><span class="time">15:45</span> Battle of the Browsers [Main Room]</h2>
-            <p>Seb Lee-DeLisle, CreativeJS</p>
+            <p>Seb Lee-Delisle, CreativeJS</p>
             <p>Last year Seb pitted the browsers against each other by making millions of particles, in an astonishing live coding demo. This time, he'll once again be putting the browsers to the test in a new crazy (and mostly arbitrary) test. So you can find out which outperforms the others to be the king of the browsers!</p>
         </li>
 

@@ -1,10 +1,13 @@
 <?php include("inc/pageopen.php"); ?>
 <?php include("inc/navigation.php"); ?>
-    <div id="brand" class="sixteen columns">
-        <h1>About the conference</h1>
+    <div class="eleven columns">
+        <div id="introduction" >
+            <h1>Watch the event live</h1>
+            <a href="http://live.nicecreation.co.uk/lws" title="Select this link to watch the conference live" target="_blank">http://live.nicecreation.co.uk/lws</a>
+        </div>
     </div>
 
-    <div class="eleven columns">
+    <?php /*<div class="eleven columns">
         <div id="introduction" >
             <p>Like every year, London Web Standards bring you State of the Browser, a conference where browser representatives are on hand to show us how their technologies are being used to bring the web to tablets, smartphones, games consoles and television.
                 Keynote talks, Q&amp;As, breakout sessions and socialising will give you a better understanding of the modern, cross-platform web.</p>
@@ -12,7 +15,7 @@
             <p>This coming year we are planning to host the conference on 20th April 2013, at Ravensbourne College. </p>
 
             <!-- Begin MailChimp Signup Form -->
-            <?php /*<link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+            <link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
             <style type="text/css">
                     #mc_embed_signup{background:transparent; clear:left; font:14px Helvetica,Arial,sans-serif; }
             </style>
@@ -43,9 +46,9 @@
 
                 <script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/6823705.js"></script>
 <noscript><a href="http://polldaddy.com/poll/6823705/">Who would you like to see speaking at State of the Browser 3</a></noscript>
-        */ ?>
+
         </div>
-        
+
 
         <div id="lastyearpicsvideo">
             <h2> Last year in pictures and videos</h2>
@@ -132,9 +135,9 @@
                 </ul>
             </div>
         </div>
-    </div>
+    </div>*/ ?>
 
 <?php include("inc/sponsorsSide.php"); ?>
-<?php include("inc/photosSide.php"); ?>
-<?php include("inc/communityPartners.php"); ?>
+<?php //include("inc/photosSide.php"); ?>
+<?php //include("inc/communityPartners.php"); ?>
 <?php include("inc/footer.php"); ?>

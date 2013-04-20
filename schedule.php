@@ -13,6 +13,9 @@
         <li>
             <h2><span class="time">9:30</span> Welcome talk [Main Room]</h2>
         </li>
+        <li>
+            <h2><span class="time">9:45</span> Keynote by Molly Holzschlag</h2>
+        </li>
 
         <li><h2><span class="time">10:00</span> WebKit Monoculture Isn't Breaking the Web: You Are[Main Room]</h2>
             <p>Alp Toker</p>

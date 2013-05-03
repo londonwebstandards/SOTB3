@@ -21,8 +21,8 @@
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 
         <link rel="stylesheet" href="js/fancybox/jquery.fancybox.css?v=2.1.3" type="text/css" media="screen" />
-        <script type="text/javascript" src="js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-        <script type="text/javascript" src="js/fancybox/jquery.easing-1.4.pack.js"></script>
+        <script type="text/javascript" src="js/fancybox/jquery.fancybox.js"></script>
+        <script type="text/javascript" src="js/fancybox/jquery.easing.pack.js"></script>
 
 </head>
 <body>

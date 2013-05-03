@@ -22,7 +22,7 @@
 
         <link rel="stylesheet" href="js/fancybox/jquery.fancybox.css?v=2.1.3" type="text/css" media="screen" />
         <script type="text/javascript" src="js/fancybox/jquery.fancybox.js"></script>
-        <script type="text/javascript" src="js/fancybox/jquery.easing.pack.js"></script>
+        <script type="text/javascript" src="js/fancybox/jquery.fancybox.pack.js"></script>
 
 </head>
 <body>

@@ -11,12 +11,12 @@
                 <ul>
                     <li>
                         <a class="fancybox" href="img/sotb3/big/DSC_0004.JPG" rel="sotb3" title="Badges">
-                            <img src="img/sotb3/thumbnails/DSC_0004.jpg" alt="State of the Browser Badges" class="img" />
+                            <img src="img/sotb3/thumbnails/DSC_0004.jpg" alt="State of the Browser Badges" />
                         </a>
                     </li>
                     <li>
                         <a class="fancybox" href="img/sotb3/big/DSC_0005.JPG" rel="sotb3" title="T-shirt">
-                            <img src="img/sotb3/thumbnails/DSC_0005.jpg" alt="State of the Browser T-shirt" class="img" />
+                            <img src="img/sotb3/thumbnails/DSC_0005.jpg" alt="State of the Browser T-shirt" />
                         </a>
                     <li>
                         <a class="fancybox" href="img/sotb3/big/DSC_0008.JPG" rel="sotb3" title="Jake Archibald and Chris Heilmann">

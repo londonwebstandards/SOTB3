@@ -21,18 +21,6 @@
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 
         <link rel="stylesheet" href="js/fancybox/jquery.fancybox.css?v=2.1.3" type="text/css" media="screen" />
-        <script type="text/javascript" src="js/fancybox/jquery.fancybox.js"></script>
-        <script type="text/javascript" src="js/fancybox/jquery.fancybox.pack.js"></script>
-        
-        <script type="text/javascript">
-		$(document).ready(function() {
-			/*
-			 *  Simple image gallery. Uses default settings
-			 */
-
-			$('.fancybox').fancybox();
-		}
-	</script>
 
 </head>
 <body>

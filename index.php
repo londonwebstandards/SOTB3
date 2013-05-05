@@ -5,7 +5,7 @@
         	<h1>Thank you all for coming!</h1>
             
             <p><strong>State of the Browser 2013 has now ended.</strong></p>
-            <p>We're updating the website and you will be able to see the videos of the recorded sessions as well as pictures from the day of the event.</p>
+            <p>We're updating the website and you will soon be able to see the videos of the recorded sessions as well as pictures from the day of the event.</p>
             
             <h2>See you at SOTB4 2014</h2>
             <p>We are already at work to bring you another awesome event next year.</p>

@@ -7,7 +7,7 @@
             <p><strong>State of the Browser 2013 has now ended.</strong></p>
             <p>We're updating the website and you will be able to see the videos of the recorded sessions as well as pictures from the day of the event.</p>
             
-            <h2>See you at SOTB4 2014!</h2>
+            <h2>See you at SOTB4 2014</h2>
             <p>We are already at work to bring you another awesome event next year.</p>
             <!-- <h1>Watch the event live</h1>
             <a href="http://live.nicecreation.co.uk/lws" title="Select this link to watch the conference live" target="_blank">http://live.nicecreation.co.uk/lws</a> -->
